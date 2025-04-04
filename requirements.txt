@@ -7,7 +7,6 @@ joblib
 matplotlib
 seaborn
 protobuf
-tensorflow-addons
 optuna
 xgboost
 lightgbm
