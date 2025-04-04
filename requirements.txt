@@ -1,0 +1,14 @@
+tensorflow
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+protobuf
+tensorflow-addons==0.20.0
+optuna
+xgboost
+lightgbm
+imbalanced-learn

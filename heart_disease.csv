@@ -1,0 +1,1001 @@
+Age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholesterol,Fasting Blood Sugar,Resting ECG,Max Heart Rate,Exercise Induced Angina,ST Depression,ST Slope,Number of Major Vessels,Thalassemia,Heart Disease Status
+68,Male,Typical Angina,111,154,> 120 mg/dl,Left ventricular hypertrophy,172,No,0.8079866856684825,Upsloping,0,Fixed defect,Yes
+58,Male,Atypical Angina,132,335,<= 120 mg/dl,Normal,157,Yes,3.989259487007451,Flat,1,Fixed defect,Yes
+44,Male,Non-anginal Pain,104,184,<= 120 mg/dl,Normal,152,Yes,1.2225344882020108,Flat,3,Reversible defect,Yes
+72,Female,Non-anginal Pain,175,127,> 120 mg/dl,ST-T wave abnormality,81,No,0.605182236275748,Flat,1,Fixed defect,Yes
+37,Male,Atypical Angina,149,195,<= 120 mg/dl,Normal,186,Yes,1.0344611848745813,Upsloping,1,Normal,Yes
+50,Female,Asymptomatic,190,293,> 120 mg/dl,Normal,193,No,5.727134654436012,Upsloping,0,Reversible defect,Yes
+68,Female,Atypical Angina,195,166,> 120 mg/dl,Left ventricular hypertrophy,84,No,5.093121767212383,Upsloping,2,Reversible defect,Yes
+48,Male,Atypical Angina,101,134,> 120 mg/dl,ST-T wave abnormality,144,No,2.1952002866015836,Flat,1,Normal,Yes
+52,Female,Typical Angina,138,266,<= 120 mg/dl,Normal,114,Yes,4.066088757429836,Flat,1,Fixed defect,Yes
+40,Female,Typical Angina,131,145,<= 120 mg/dl,Left ventricular hypertrophy,154,No,3.3311091767418364,Downsloping,1,Reversible defect,Yes
+40,Female,Asymptomatic,127,212,> 120 mg/dl,ST-T wave abnormality,201,Yes,4.198170433591897,Flat,2,Reversible defect,Yes
+53,Male,Non-anginal Pain,171,351,<= 120 mg/dl,ST-T wave abnormality,178,No,4.232561145269108,Downsloping,2,Reversible defect,Yes
+65,Female,Atypical Angina,134,140,> 120 mg/dl,Left ventricular hypertrophy,68,No,3.898150893371956,Upsloping,0,Fixed defect,Yes
+69,Female,Asymptomatic,124,157,> 120 mg/dl,Left ventricular hypertrophy,101,Yes,1.6498284849313134,Flat,1,Reversible defect,Yes
+53,Female,Typical Angina,119,395,> 120 mg/dl,Left ventricular hypertrophy,112,No,0.2418398087294724,Upsloping,3,Normal,Yes
+32,Male,Atypical Angina,177,276,> 120 mg/dl,Left ventricular hypertrophy,133,No,2.8245140483386746,Upsloping,2,Fixed defect,Yes
+51,Female,Non-anginal Pain,195,298,<= 120 mg/dl,Left ventricular hypertrophy,98,Yes,5.524038085082364,Upsloping,0,Normal,Yes
+31,Male,Typical Angina,119,251,> 120 mg/dl,Normal,181,Yes,3.5308830028151705,Upsloping,1,Normal,Yes
+53,Male,Typical Angina,167,147,> 120 mg/dl,Normal,74,Yes,5.160824458551829,Flat,3,Reversible defect,Yes
+73,Male,Typical Angina,95,379,<= 120 mg/dl,ST-T wave abnormality,182,No,6.1480709263596145,Upsloping,2,Reversible defect,Yes
+59,Male,Asymptomatic,156,195,> 120 mg/dl,Normal,170,Yes,1.0144204656573128,Downsloping,3,Reversible defect,Yes
+67,Male,Non-anginal Pain,169,186,> 120 mg/dl,Normal,190,Yes,4.28902136268029,Flat,2,Normal,Yes
+31,Male,Atypical Angina,96,313,<= 120 mg/dl,Normal,142,No,4.180620156940153,Upsloping,0,Fixed defect,Yes
+50,Female,Asymptomatic,141,281,<= 120 mg/dl,Left ventricular hypertrophy,69,Yes,6.075723773621326,Flat,3,Reversible defect,Yes
+62,Male,Asymptomatic,103,376,<= 120 mg/dl,ST-T wave abnormality,151,No,6.110724550507363,Downsloping,1,Reversible defect,Yes
+41,Female,Asymptomatic,162,191,> 120 mg/dl,ST-T wave abnormality,88,No,4.257407392689603,Upsloping,1,Normal,Yes
+51,Female,Typical Angina,104,206,<= 120 mg/dl,ST-T wave abnormality,94,Yes,1.5104117102896044,Downsloping,2,Fixed defect,Yes
+73,Male,Non-anginal Pain,110,381,<= 120 mg/dl,ST-T wave abnormality,65,No,4.951046196409714,Upsloping,1,Normal,Yes
+54,Female,Asymptomatic,124,333,> 120 mg/dl,Normal,199,Yes,0.6635806321084362,Downsloping,3,Reversible defect,Yes
+78,Female,Atypical Angina,155,272,> 120 mg/dl,Normal,170,Yes,4.8403356858640985,Upsloping,0,Normal,Yes
+56,Female,Non-anginal Pain,180,329,> 120 mg/dl,Left ventricular hypertrophy,97,Yes,5.643215969697118,Flat,2,Reversible defect,Yes
+71,Female,Atypical Angina,91,180,> 120 mg/dl,ST-T wave abnormality,136,Yes,2.3735670475642987,Upsloping,3,Fixed defect,Yes
+57,Male,Non-anginal Pain,124,387,> 120 mg/dl,Normal,152,No,3.909938828895099,Flat,2,Normal,Yes
+45,Female,Atypical Angina,171,381,<= 120 mg/dl,Normal,126,No,2.6668849390003233,Upsloping,0,Reversible defect,Yes
+44,Male,Typical Angina,167,337,<= 120 mg/dl,Left ventricular hypertrophy,195,Yes,2.7141433409263964,Upsloping,2,Reversible defect,Yes
+76,Female,Asymptomatic,109,255,<= 120 mg/dl,Left ventricular hypertrophy,67,Yes,1.9242995124703444,Downsloping,1,Reversible defect,Yes
+73,Female,Atypical Angina,171,212,> 120 mg/dl,Left ventricular hypertrophy,181,No,4.725203646792012,Downsloping,1,Reversible defect,Yes
+32,Male,Non-anginal Pain,99,228,> 120 mg/dl,Normal,143,Yes,5.804294697832332,Downsloping,2,Normal,Yes
+66,Female,Asymptomatic,114,360,> 120 mg/dl,Normal,191,No,5.832655327253659,Upsloping,0,Reversible defect,Yes
+36,Female,Asymptomatic,155,261,<= 120 mg/dl,Left ventricular hypertrophy,144,Yes,1.0836439662245898,Upsloping,0,Normal,Yes
+50,Female,Non-anginal Pain,114,356,<= 120 mg/dl,ST-T wave abnormality,104,No,5.42341062787071,Upsloping,1,Reversible defect,Yes
+38,Male,Atypical Angina,143,296,> 120 mg/dl,Left ventricular hypertrophy,195,No,4.572074936848157,Flat,0,Normal,Yes
+68,Female,Typical Angina,122,260,<= 120 mg/dl,Left ventricular hypertrophy,146,No,1.5675918842797936,Flat,2,Normal,Yes
+47,Male,Typical Angina,125,308,> 120 mg/dl,Left ventricular hypertrophy,75,Yes,0.41716460011339024,Upsloping,3,Reversible defect,Yes
+33,Female,Atypical Angina,184,168,<= 120 mg/dl,Left ventricular hypertrophy,136,Yes,1.6615830546831434,Downsloping,2,Reversible defect,Yes
+54,Male,Asymptomatic,103,309,<= 120 mg/dl,Normal,68,Yes,5.655691068045459,Downsloping,1,Reversible defect,Yes
+43,Male,Asymptomatic,154,255,<= 120 mg/dl,ST-T wave abnormality,119,Yes,3.925707784353788,Downsloping,1,Reversible defect,Yes
+79,Female,Asymptomatic,199,162,> 120 mg/dl,Left ventricular hypertrophy,137,Yes,4.470538897566805,Upsloping,1,Fixed defect,Yes
+38,Female,Asymptomatic,169,209,<= 120 mg/dl,ST-T wave abnormality,136,No,1.5943445768763942,Downsloping,0,Reversible defect,Yes
+55,Male,Atypical Angina,143,364,<= 120 mg/dl,ST-T wave abnormality,130,No,4.460206564563886,Upsloping,2,Reversible defect,Yes
+31,Male,Asymptomatic,199,311,> 120 mg/dl,ST-T wave abnormality,74,No,0.1743533389231273,Flat,3,Reversible defect,Yes
+49,Female,Non-anginal Pain,141,225,<= 120 mg/dl,Left ventricular hypertrophy,130,No,2.3269923437926856,Downsloping,2,Normal,Yes
+57,Male,Asymptomatic,92,352,> 120 mg/dl,Normal,161,No,3.8858707609624537,Flat,3,Reversible defect,Yes
+76,Female,Typical Angina,188,384,> 120 mg/dl,Left ventricular hypertrophy,81,No,0.9057987063561854,Downsloping,2,Normal,Yes
+36,Female,Asymptomatic,130,156,> 120 mg/dl,ST-T wave abnormality,172,No,5.102622161570995,Upsloping,1,Normal,Yes
+73,Female,Atypical Angina,95,160,> 120 mg/dl,ST-T wave abnormality,60,Yes,1.4571940526338956,Upsloping,3,Normal,Yes
+37,Female,Typical Angina,114,136,> 120 mg/dl,Normal,69,No,4.044142899474367,Upsloping,2,Normal,Yes
+76,Male,Atypical Angina,102,396,<= 120 mg/dl,Left ventricular hypertrophy,169,Yes,2.512222283967044,Upsloping,0,Fixed defect,Yes
+64,Female,Atypical Angina,187,178,> 120 mg/dl,ST-T wave abnormality,172,No,3.6954702919614126,Downsloping,0,Reversible defect,Yes
+43,Male,Typical Angina,97,302,> 120 mg/dl,Normal,109,No,0.6661934262992304,Flat,2,Normal,Yes
+46,Female,Atypical Angina,110,160,> 120 mg/dl,ST-T wave abnormality,71,Yes,0.10485935951396541,Upsloping,1,Reversible defect,Yes
+65,Male,Atypical Angina,187,158,> 120 mg/dl,Normal,148,No,5.639299449757868,Downsloping,3,Normal,Yes
+79,Female,Asymptomatic,157,311,<= 120 mg/dl,Normal,171,Yes,1.6717060543565334,Flat,2,Fixed defect,Yes
+69,Male,Non-anginal Pain,114,386,> 120 mg/dl,Left ventricular hypertrophy,137,No,5.0819974172388465,Upsloping,0,Normal,Yes
+33,Male,Atypical Angina,168,266,<= 120 mg/dl,ST-T wave abnormality,180,Yes,6.1959718629276415,Flat,3,Reversible defect,Yes
+31,Female,Atypical Angina,157,246,> 120 mg/dl,Left ventricular hypertrophy,82,No,1.3108737995932491,Upsloping,0,Reversible defect,Yes
+35,Female,Atypical Angina,134,165,<= 120 mg/dl,ST-T wave abnormality,193,Yes,1.6440585953368048,Flat,0,Fixed defect,No
+71,Female,Asymptomatic,149,164,> 120 mg/dl,Left ventricular hypertrophy,84,Yes,4.109730683334927,Flat,2,Reversible defect,Yes
+33,Female,Non-anginal Pain,101,120,> 120 mg/dl,ST-T wave abnormality,77,No,5.985781534523852,Upsloping,0,Reversible defect,Yes
+58,Male,Typical Angina,121,287,<= 120 mg/dl,Left ventricular hypertrophy,200,No,5.678048958782613,Downsloping,3,Normal,Yes
+47,Female,Asymptomatic,185,227,> 120 mg/dl,Normal,102,Yes,3.1178282244066264,Flat,1,Reversible defect,Yes
+55,Male,Asymptomatic,181,138,<= 120 mg/dl,ST-T wave abnormality,137,No,4.929683751665693,Upsloping,2,Normal,No
+73,Male,Non-anginal Pain,102,191,> 120 mg/dl,ST-T wave abnormality,87,Yes,0.8416242892193866,Flat,3,Fixed defect,Yes
+63,Female,Non-anginal Pain,120,228,<= 120 mg/dl,Normal,118,No,6.060116742064876,Flat,2,Reversible defect,Yes
+39,Male,Asymptomatic,167,387,> 120 mg/dl,Left ventricular hypertrophy,122,Yes,5.978990051023117,Downsloping,0,Normal,Yes
+65,Male,Typical Angina,109,359,> 120 mg/dl,ST-T wave abnormality,151,No,1.01511953885086,Flat,0,Reversible defect,Yes
+43,Male,Asymptomatic,107,209,<= 120 mg/dl,ST-T wave abnormality,115,Yes,1.856423373779261,Flat,3,Normal,Yes
+60,Male,Non-anginal Pain,182,222,> 120 mg/dl,Left ventricular hypertrophy,170,No,0.620960984541955,Upsloping,3,Fixed defect,Yes
+77,Female,Typical Angina,149,369,> 120 mg/dl,Normal,196,Yes,1.6846491131687142,Upsloping,1,Normal,Yes
+44,Female,Non-anginal Pain,152,127,> 120 mg/dl,Left ventricular hypertrophy,127,Yes,5.058925894374282,Downsloping,3,Reversible defect,Yes
+37,Female,Typical Angina,95,272,> 120 mg/dl,Left ventricular hypertrophy,105,No,2.3455567644246087,Flat,3,Normal,Yes
+43,Female,Atypical Angina,121,293,> 120 mg/dl,Left ventricular hypertrophy,126,No,0.5480611963099019,Flat,2,Reversible defect,Yes
+52,Male,Non-anginal Pain,182,277,> 120 mg/dl,ST-T wave abnormality,195,Yes,2.1217982536292084,Flat,0,Fixed defect,Yes
+69,Male,Non-anginal Pain,132,334,<= 120 mg/dl,Normal,65,Yes,6.0845766722959365,Downsloping,3,Normal,Yes
+50,Female,Asymptomatic,91,296,<= 120 mg/dl,Normal,83,Yes,3.9040382906070583,Flat,1,Reversible defect,Yes
+45,Female,Non-anginal Pain,149,294,<= 120 mg/dl,Left ventricular hypertrophy,153,Yes,2.5801978677181783,Upsloping,3,Reversible defect,Yes
+74,Female,Non-anginal Pain,112,265,> 120 mg/dl,ST-T wave abnormality,72,No,1.032538783683074,Downsloping,0,Reversible defect,Yes
+47,Male,Atypical Angina,172,280,<= 120 mg/dl,Left ventricular hypertrophy,84,Yes,6.114296143158908,Upsloping,3,Normal,Yes
+76,Female,Non-anginal Pain,120,246,> 120 mg/dl,ST-T wave abnormality,177,Yes,5.089263857431399,Upsloping,2,Normal,Yes
+53,Female,Atypical Angina,94,201,> 120 mg/dl,ST-T wave abnormality,141,Yes,1.7451592751957004,Downsloping,0,Normal,Yes
+55,Female,Atypical Angina,172,266,> 120 mg/dl,ST-T wave abnormality,170,No,0.43442591347137466,Upsloping,3,Fixed defect,Yes
+54,Male,Atypical Angina,123,358,> 120 mg/dl,ST-T wave abnormality,141,Yes,0.35107845574085983,Flat,2,Reversible defect,Yes
+74,Male,Atypical Angina,99,203,<= 120 mg/dl,Normal,125,No,0.7463445269343097,Downsloping,0,Reversible defect,Yes
+70,Male,Typical Angina,178,232,> 120 mg/dl,ST-T wave abnormality,104,No,3.600765218409414,Upsloping,3,Fixed defect,Yes
+58,Male,Asymptomatic,91,344,<= 120 mg/dl,ST-T wave abnormality,173,No,5.758333211474053,Flat,2,Fixed defect,Yes
+44,Male,Typical Angina,100,362,> 120 mg/dl,Left ventricular hypertrophy,122,No,3.079809253637104,Flat,1,Normal,Yes
+74,Male,Non-anginal Pain,139,262,<= 120 mg/dl,Left ventricular hypertrophy,135,No,5.226261991228423,Upsloping,2,Normal,Yes
+30,Male,Typical Angina,120,160,<= 120 mg/dl,Normal,173,No,2.7644970431308087,Flat,1,Normal,Yes
+54,Male,Typical Angina,145,377,<= 120 mg/dl,Left ventricular hypertrophy,170,No,4.3932179837605165,Downsloping,3,Normal,Yes
+36,Female,Non-anginal Pain,168,224,<= 120 mg/dl,ST-T wave abnormality,94,Yes,4.5376109711763055,Upsloping,2,Normal,Yes
+38,Female,Non-anginal Pain,162,321,<= 120 mg/dl,Left ventricular hypertrophy,112,Yes,1.0785749766006996,Flat,1,Normal,Yes
+53,Male,Non-anginal Pain,176,385,<= 120 mg/dl,Normal,85,No,2.239539565650033,Flat,0,Fixed defect,Yes
+30,Male,Typical Angina,172,329,> 120 mg/dl,Left ventricular hypertrophy,73,Yes,3.9512733705357483,Upsloping,2,Fixed defect,Yes
+73,Female,Typical Angina,98,170,<= 120 mg/dl,Left ventricular hypertrophy,177,Yes,0.43831897074307036,Upsloping,3,Fixed defect,Yes
+37,Male,Non-anginal Pain,188,237,> 120 mg/dl,Normal,104,No,2.241549164130331,Upsloping,0,Reversible defect,Yes
+53,Male,Asymptomatic,110,320,<= 120 mg/dl,Normal,110,Yes,3.3157566909433935,Upsloping,1,Reversible defect,Yes
+40,Male,Asymptomatic,162,158,> 120 mg/dl,ST-T wave abnormality,178,No,6.17659185687676,Downsloping,2,Normal,Yes
+46,Female,Atypical Angina,117,147,<= 120 mg/dl,Left ventricular hypertrophy,78,Yes,2.9421080882591326,Upsloping,2,Fixed defect,Yes
+37,Female,Non-anginal Pain,151,378,<= 120 mg/dl,ST-T wave abnormality,141,No,5.0595518941088065,Downsloping,3,Reversible defect,Yes
+64,Female,Atypical Angina,199,203,> 120 mg/dl,Left ventricular hypertrophy,135,No,2.67881716741303,Downsloping,0,Reversible defect,Yes
+64,Female,Asymptomatic,96,274,<= 120 mg/dl,Left ventricular hypertrophy,151,Yes,4.9376224802421955,Upsloping,2,Fixed defect,Yes
+62,Female,Atypical Angina,169,236,<= 120 mg/dl,ST-T wave abnormality,92,Yes,3.691571770044672,Downsloping,2,Reversible defect,Yes
+34,Male,Non-anginal Pain,105,121,<= 120 mg/dl,Left ventricular hypertrophy,87,No,5.49689173731487,Upsloping,0,Reversible defect,Yes
+71,Female,Non-anginal Pain,186,212,> 120 mg/dl,Left ventricular hypertrophy,182,No,2.5478438245706814,Upsloping,2,Fixed defect,Yes
+68,Male,Non-anginal Pain,93,285,<= 120 mg/dl,Left ventricular hypertrophy,185,No,3.746687402893169,Flat,0,Reversible defect,Yes
+70,Male,Typical Angina,93,377,> 120 mg/dl,Normal,96,Yes,3.90611581983673,Upsloping,0,Fixed defect,Yes
+57,Female,Atypical Angina,192,200,<= 120 mg/dl,ST-T wave abnormality,158,Yes,2.5877742391629344,Flat,0,Reversible defect,Yes
+36,Female,Asymptomatic,129,387,<= 120 mg/dl,Normal,157,Yes,0.8947346708623855,Downsloping,3,Fixed defect,Yes
+38,Male,Asymptomatic,106,354,> 120 mg/dl,ST-T wave abnormality,186,Yes,0.5800683228564805,Flat,0,Reversible defect,Yes
+37,Male,Asymptomatic,190,332,<= 120 mg/dl,ST-T wave abnormality,139,No,0.10336361371772522,Downsloping,0,Reversible defect,Yes
+41,Male,Typical Angina,192,181,<= 120 mg/dl,Left ventricular hypertrophy,97,No,5.415912438320331,Upsloping,1,Fixed defect,Yes
+63,Female,Typical Angina,141,168,> 120 mg/dl,ST-T wave abnormality,136,No,1.4661444558799062,Downsloping,1,Reversible defect,Yes
+62,Female,Non-anginal Pain,182,246,<= 120 mg/dl,Normal,185,No,1.3113418455469619,Downsloping,3,Fixed defect,Yes
+77,Female,Asymptomatic,141,342,> 120 mg/dl,Normal,146,Yes,4.563419482641606,Upsloping,0,Fixed defect,Yes
+52,Female,Typical Angina,125,398,> 120 mg/dl,Normal,113,No,1.984099901141829,Downsloping,1,Reversible defect,Yes
+53,Female,Non-anginal Pain,127,396,> 120 mg/dl,ST-T wave abnormality,75,No,3.137477092953387,Upsloping,1,Normal,Yes
+66,Male,Asymptomatic,192,226,<= 120 mg/dl,Normal,87,Yes,1.007568604844229,Flat,2,Reversible defect,Yes
+64,Female,Atypical Angina,139,265,> 120 mg/dl,ST-T wave abnormality,105,Yes,5.95042347306421,Upsloping,0,Normal,Yes
+73,Male,Non-anginal Pain,152,218,> 120 mg/dl,Normal,131,No,5.279804680106872,Upsloping,1,Normal,Yes
+69,Male,Typical Angina,190,192,<= 120 mg/dl,Normal,144,Yes,5.355495662383021,Downsloping,3,Reversible defect,Yes
+51,Male,Typical Angina,152,241,> 120 mg/dl,ST-T wave abnormality,85,No,2.5219972411464324,Flat,2,Normal,Yes
+56,Female,Non-anginal Pain,151,149,<= 120 mg/dl,Normal,144,Yes,4.7266395249844715,Upsloping,2,Fixed defect,Yes
+64,Female,Non-anginal Pain,188,307,<= 120 mg/dl,Left ventricular hypertrophy,124,Yes,0.892032163416637,Flat,0,Fixed defect,Yes
+30,Female,Typical Angina,96,314,<= 120 mg/dl,ST-T wave abnormality,193,No,0.053437816069037726,Flat,0,Normal,Yes
+64,Male,Atypical Angina,116,275,<= 120 mg/dl,ST-T wave abnormality,174,Yes,0.12383218198377437,Downsloping,2,Fixed defect,Yes
+66,Male,Asymptomatic,181,291,> 120 mg/dl,ST-T wave abnormality,123,No,3.636930771908275,Upsloping,3,Reversible defect,Yes
+76,Male,Atypical Angina,175,160,> 120 mg/dl,Left ventricular hypertrophy,146,Yes,2.823448412537233,Downsloping,0,Fixed defect,Yes
+43,Male,Non-anginal Pain,103,182,> 120 mg/dl,ST-T wave abnormality,166,Yes,3.2116951632328226,Upsloping,0,Normal,Yes
+32,Male,Atypical Angina,160,142,> 120 mg/dl,Normal,155,Yes,0.04627147058676031,Flat,2,Reversible defect,Yes
+30,Male,Typical Angina,190,194,> 120 mg/dl,Normal,136,Yes,2.6206570418760395,Upsloping,2,Fixed defect,Yes
+34,Female,Non-anginal Pain,175,167,<= 120 mg/dl,Normal,146,Yes,4.452022599445337,Upsloping,0,Reversible defect,Yes
+55,Female,Asymptomatic,94,279,> 120 mg/dl,ST-T wave abnormality,116,No,2.7447009521981025,Flat,1,Normal,Yes
+43,Female,Typical Angina,144,237,> 120 mg/dl,Normal,162,Yes,4.539759079135778,Flat,0,Fixed defect,Yes
+68,Female,Typical Angina,91,219,> 120 mg/dl,ST-T wave abnormality,150,No,1.4447175792603757,Upsloping,1,Reversible defect,Yes
+56,Male,Asymptomatic,151,286,<= 120 mg/dl,Normal,104,Yes,5.0414804277866985,Downsloping,2,Reversible defect,Yes
+38,Male,Asymptomatic,180,275,<= 120 mg/dl,Left ventricular hypertrophy,147,No,3.648273690811404,Upsloping,1,Fixed defect,Yes
+44,Female,Atypical Angina,110,126,> 120 mg/dl,Left ventricular hypertrophy,174,Yes,1.3067312164654186,Flat,3,Reversible defect,Yes
+44,Male,Non-anginal Pain,191,315,<= 120 mg/dl,Left ventricular hypertrophy,106,No,1.4676669502937643,Downsloping,2,Reversible defect,Yes
+55,Female,Asymptomatic,168,175,> 120 mg/dl,Left ventricular hypertrophy,194,No,3.8937888803311296,Flat,0,Normal,Yes
+71,Female,Asymptomatic,110,312,> 120 mg/dl,ST-T wave abnormality,109,Yes,5.145625477917149,Flat,0,Normal,Yes
+42,Female,Non-anginal Pain,99,166,<= 120 mg/dl,Normal,143,Yes,2.576892248580762,Downsloping,2,Normal,Yes
+61,Male,Asymptomatic,176,267,<= 120 mg/dl,Left ventricular hypertrophy,150,Yes,1.6014626605910718,Flat,2,Normal,Yes
+68,Female,Asymptomatic,147,394,> 120 mg/dl,ST-T wave abnormality,193,No,5.375471962845722,Flat,3,Normal,Yes
+78,Female,Atypical Angina,128,276,> 120 mg/dl,Left ventricular hypertrophy,150,No,4.149463408855176,Flat,2,Normal,Yes
+61,Female,Typical Angina,94,321,<= 120 mg/dl,Left ventricular hypertrophy,196,Yes,2.7781300211550746,Flat,0,Fixed defect,Yes
+33,Male,Typical Angina,154,245,> 120 mg/dl,ST-T wave abnormality,168,Yes,3.0249812107316716,Flat,3,Normal,Yes
+59,Male,Typical Angina,102,183,<= 120 mg/dl,ST-T wave abnormality,116,No,1.2663901012056578,Flat,0,Reversible defect,Yes
+66,Female,Typical Angina,174,295,> 120 mg/dl,Normal,90,No,3.8861763064020325,Flat,1,Fixed defect,Yes
+52,Male,Asymptomatic,179,235,<= 120 mg/dl,Normal,80,Yes,2.22420356536591,Flat,2,Reversible defect,Yes
+68,Male,Non-anginal Pain,198,323,> 120 mg/dl,Left ventricular hypertrophy,149,No,6.173000095380965,Flat,1,Normal,Yes
+74,Male,Non-anginal Pain,174,150,> 120 mg/dl,Left ventricular hypertrophy,99,Yes,2.9771377946237045,Upsloping,0,Normal,Yes
+44,Male,Atypical Angina,142,232,<= 120 mg/dl,Normal,171,Yes,3.012490758375602,Upsloping,1,Reversible defect,Yes
+72,Male,Atypical Angina,171,186,> 120 mg/dl,Normal,104,Yes,3.5082810819461656,Flat,1,Reversible defect,Yes
+58,Male,Asymptomatic,190,194,> 120 mg/dl,ST-T wave abnormality,136,No,5.6838872193362295,Upsloping,0,Reversible defect,Yes
+65,Male,Non-anginal Pain,134,164,<= 120 mg/dl,Normal,146,No,4.965072219130452,Downsloping,0,Fixed defect,Yes
+42,Male,Non-anginal Pain,121,379,> 120 mg/dl,Normal,160,No,2.797006432746617,Upsloping,2,Normal,Yes
+61,Male,Typical Angina,125,273,> 120 mg/dl,Left ventricular hypertrophy,176,No,4.455935449031335,Flat,1,Reversible defect,Yes
+36,Male,Asymptomatic,170,274,> 120 mg/dl,Normal,151,Yes,3.6346600924407224,Flat,3,Normal,Yes
+51,Female,Asymptomatic,188,353,<= 120 mg/dl,Left ventricular hypertrophy,87,No,3.0526757019477433,Upsloping,3,Reversible defect,Yes
+57,Female,Typical Angina,149,170,<= 120 mg/dl,Normal,84,Yes,1.1923577912629733,Flat,0,Normal,Yes
+31,Male,Asymptomatic,100,381,<= 120 mg/dl,ST-T wave abnormality,117,Yes,2.876404833420324,Downsloping,0,Fixed defect,Yes
+71,Female,Asymptomatic,152,244,> 120 mg/dl,Normal,100,Yes,1.5240752395399628,Downsloping,1,Normal,Yes
+74,Female,Atypical Angina,110,364,> 120 mg/dl,Normal,193,No,5.672021329080259,Flat,0,Reversible defect,Yes
+35,Male,Non-anginal Pain,141,149,> 120 mg/dl,Normal,134,Yes,2.079522243677351,Downsloping,3,Normal,Yes
+57,Male,Asymptomatic,144,241,> 120 mg/dl,Left ventricular hypertrophy,97,Yes,5.904036890106909,Downsloping,2,Fixed defect,Yes
+57,Male,Atypical Angina,115,244,<= 120 mg/dl,ST-T wave abnormality,193,No,3.3049427985872097,Upsloping,2,Fixed defect,Yes
+73,Female,Non-anginal Pain,157,156,> 120 mg/dl,Normal,134,Yes,3.915575147792194,Downsloping,1,Normal,Yes
+73,Female,Typical Angina,123,289,> 120 mg/dl,Left ventricular hypertrophy,201,No,3.3662307558338322,Upsloping,2,Reversible defect,Yes
+49,Male,Atypical Angina,141,243,> 120 mg/dl,ST-T wave abnormality,125,No,0.8021598251935456,Flat,0,Fixed defect,Yes
+59,Male,Atypical Angina,171,154,<= 120 mg/dl,Left ventricular hypertrophy,62,No,2.3300915578492343,Upsloping,0,Fixed defect,Yes
+40,Male,Non-anginal Pain,193,206,> 120 mg/dl,Left ventricular hypertrophy,176,Yes,0.6147058961212684,Flat,0,Normal,Yes
+57,Female,Typical Angina,188,253,> 120 mg/dl,ST-T wave abnormality,158,No,3.862315073936967,Flat,0,Fixed defect,Yes
+54,Female,Atypical Angina,194,315,> 120 mg/dl,Normal,78,No,2.7706200102427214,Flat,1,Fixed defect,Yes
+68,Female,Asymptomatic,182,393,> 120 mg/dl,Left ventricular hypertrophy,175,No,4.823506823739809,Flat,2,Reversible defect,Yes
+62,Female,Asymptomatic,141,320,> 120 mg/dl,Left ventricular hypertrophy,184,No,1.366916982196093,Flat,3,Reversible defect,Yes
+30,Male,Asymptomatic,118,196,<= 120 mg/dl,Normal,147,Yes,1.0203095622618765,Upsloping,2,Reversible defect,Yes
+56,Male,Typical Angina,127,178,> 120 mg/dl,Normal,94,No,2.5192598319753605,Flat,0,Normal,No
+42,Male,Atypical Angina,131,245,> 120 mg/dl,ST-T wave abnormality,60,Yes,5.744829375953963,Downsloping,3,Fixed defect,Yes
+70,Male,Asymptomatic,110,228,> 120 mg/dl,ST-T wave abnormality,185,No,4.404615253076953,Downsloping,1,Normal,Yes
+32,Female,Typical Angina,131,343,> 120 mg/dl,ST-T wave abnormality,148,Yes,2.597326473716096,Flat,0,Fixed defect,Yes
+68,Female,Asymptomatic,102,397,> 120 mg/dl,Normal,84,No,3.2070874524767254,Downsloping,0,Fixed defect,Yes
+35,Male,Non-anginal Pain,194,187,> 120 mg/dl,Left ventricular hypertrophy,75,Yes,0.5221206692980097,Upsloping,3,Fixed defect,Yes
+37,Male,Atypical Angina,153,188,> 120 mg/dl,Left ventricular hypertrophy,132,No,6.104370557531901,Upsloping,1,Reversible defect,Yes
+56,Female,Atypical Angina,106,284,> 120 mg/dl,ST-T wave abnormality,188,Yes,4.1317252891084975,Flat,3,Normal,Yes
+38,Male,Typical Angina,98,281,> 120 mg/dl,Normal,101,Yes,1.7695052244732195,Flat,1,Normal,Yes
+66,Female,Typical Angina,130,161,> 120 mg/dl,Left ventricular hypertrophy,139,Yes,3.632012044134515,Flat,0,Fixed defect,Yes
+62,Male,Atypical Angina,90,228,<= 120 mg/dl,ST-T wave abnormality,163,No,0.6787906696277627,Downsloping,2,Normal,Yes
+71,Male,Asymptomatic,91,170,<= 120 mg/dl,Left ventricular hypertrophy,93,Yes,5.988187346607019,Downsloping,0,Reversible defect,Yes
+73,Male,Asymptomatic,149,369,<= 120 mg/dl,Left ventricular hypertrophy,148,Yes,1.0836669248768689,Upsloping,2,Normal,Yes
+53,Male,Non-anginal Pain,137,140,<= 120 mg/dl,Normal,184,Yes,4.017787971942328,Downsloping,2,Fixed defect,Yes
+44,Male,Asymptomatic,118,258,> 120 mg/dl,Normal,104,Yes,1.5218176677413688,Upsloping,1,Reversible defect,Yes
+61,Male,Typical Angina,186,211,<= 120 mg/dl,Left ventricular hypertrophy,193,No,4.448880572420922,Downsloping,3,Reversible defect,Yes
+61,Male,Typical Angina,99,399,<= 120 mg/dl,ST-T wave abnormality,80,Yes,4.816292476889743,Upsloping,1,Fixed defect,Yes
+53,Female,Asymptomatic,147,244,> 120 mg/dl,Normal,181,Yes,4.175202319250882,Flat,0,Normal,Yes
+70,Female,Typical Angina,149,230,<= 120 mg/dl,Left ventricular hypertrophy,129,Yes,3.809896653582194,Downsloping,3,Fixed defect,Yes
+78,Female,Atypical Angina,193,258,<= 120 mg/dl,Normal,155,No,5.533308382502472,Upsloping,2,Normal,Yes
+78,Female,Atypical Angina,110,392,> 120 mg/dl,Normal,164,Yes,0.4874856081364999,Downsloping,2,Normal,Yes
+41,Female,Asymptomatic,117,218,> 120 mg/dl,Normal,107,Yes,2.05167154783721,Flat,0,Reversible defect,Yes
+68,Male,Atypical Angina,164,371,> 120 mg/dl,Left ventricular hypertrophy,98,Yes,1.539382373711245,Upsloping,3,Fixed defect,Yes
+31,Male,Atypical Angina,123,223,<= 120 mg/dl,ST-T wave abnormality,90,Yes,6.125686564805614,Downsloping,0,Reversible defect,Yes
+32,Female,Non-anginal Pain,97,333,<= 120 mg/dl,ST-T wave abnormality,69,No,2.4142166339346156,Downsloping,0,Fixed defect,Yes
+78,Male,Non-anginal Pain,148,368,> 120 mg/dl,ST-T wave abnormality,89,Yes,4.542198735290472,Flat,1,Fixed defect,Yes
+66,Female,Atypical Angina,175,271,> 120 mg/dl,Normal,77,Yes,4.245296016062229,Flat,0,Reversible defect,Yes
+78,Female,Asymptomatic,161,369,<= 120 mg/dl,Left ventricular hypertrophy,147,No,1.314903672359742,Upsloping,3,Fixed defect,Yes
+46,Male,Non-anginal Pain,138,394,> 120 mg/dl,Normal,184,No,1.4817856173116182,Downsloping,0,Fixed defect,Yes
+78,Male,Typical Angina,168,284,<= 120 mg/dl,ST-T wave abnormality,132,No,1.7439642940288116,Downsloping,3,Normal,Yes
+31,Male,Typical Angina,106,127,> 120 mg/dl,ST-T wave abnormality,74,Yes,2.548989125208151,Flat,2,Fixed defect,Yes
+31,Female,Typical Angina,149,124,> 120 mg/dl,Left ventricular hypertrophy,63,No,1.4528154070332662,Flat,0,Fixed defect,Yes
+57,Male,Asymptomatic,176,264,<= 120 mg/dl,Normal,68,Yes,0.12183919303045639,Upsloping,3,Reversible defect,Yes
+52,Female,Atypical Angina,177,220,> 120 mg/dl,ST-T wave abnormality,168,No,5.452236952204612,Downsloping,2,Reversible defect,Yes
+66,Female,Typical Angina,134,283,> 120 mg/dl,Left ventricular hypertrophy,196,Yes,5.986780954561482,Downsloping,3,Fixed defect,Yes
+61,Female,Asymptomatic,172,266,> 120 mg/dl,Normal,191,No,2.1177363995957212,Upsloping,2,Normal,Yes
+62,Male,Non-anginal Pain,158,183,<= 120 mg/dl,Normal,75,Yes,2.098742652437932,Upsloping,1,Normal,Yes
+30,Male,Atypical Angina,121,210,> 120 mg/dl,ST-T wave abnormality,158,No,0.04396923920110012,Flat,0,Reversible defect,Yes
+48,Female,Non-anginal Pain,133,236,> 120 mg/dl,ST-T wave abnormality,180,Yes,4.217554267648319,Flat,0,Fixed defect,Yes
+31,Male,Asymptomatic,154,386,> 120 mg/dl,Normal,111,Yes,5.117727353641499,Upsloping,2,Fixed defect,Yes
+73,Male,Typical Angina,176,292,> 120 mg/dl,Normal,128,Yes,0.9089714622320196,Upsloping,1,Normal,Yes
+55,Male,Typical Angina,190,166,> 120 mg/dl,ST-T wave abnormality,64,Yes,0.9899313660763346,Downsloping,3,Normal,Yes
+61,Female,Asymptomatic,97,259,> 120 mg/dl,Normal,79,Yes,4.898516149822914,Upsloping,1,Normal,Yes
+35,Female,Typical Angina,166,365,<= 120 mg/dl,ST-T wave abnormality,138,Yes,3.821002639795697,Upsloping,3,Reversible defect,Yes
+61,Male,Atypical Angina,161,268,<= 120 mg/dl,Normal,170,Yes,0.27813545729184547,Downsloping,3,Fixed defect,Yes
+33,Female,Asymptomatic,176,365,> 120 mg/dl,ST-T wave abnormality,61,Yes,3.8597913408661464,Upsloping,0,Reversible defect,Yes
+40,Male,Non-anginal Pain,132,124,<= 120 mg/dl,Left ventricular hypertrophy,152,No,1.9152898816313497,Flat,2,Fixed defect,Yes
+46,Male,Asymptomatic,90,303,<= 120 mg/dl,ST-T wave abnormality,72,Yes,2.286095963919245,Flat,0,Reversible defect,Yes
+67,Male,Atypical Angina,198,139,> 120 mg/dl,ST-T wave abnormality,63,Yes,4.772334793440657,Downsloping,0,Fixed defect,Yes
+53,Male,Atypical Angina,140,165,<= 120 mg/dl,Left ventricular hypertrophy,168,No,5.0277981945701855,Upsloping,0,Normal,Yes
+34,Female,Asymptomatic,113,131,<= 120 mg/dl,Normal,133,Yes,2.48221108640695,Flat,3,Normal,Yes
+63,Female,Asymptomatic,188,189,<= 120 mg/dl,Left ventricular hypertrophy,154,No,5.872348203239399,Flat,0,Normal,Yes
+35,Female,Typical Angina,113,136,<= 120 mg/dl,ST-T wave abnormality,164,Yes,2.520068851302848,Flat,3,Reversible defect,Yes
+51,Male,Atypical Angina,106,266,<= 120 mg/dl,Normal,67,No,4.785383418426681,Flat,2,Normal,Yes
+40,Male,Asymptomatic,94,273,<= 120 mg/dl,Left ventricular hypertrophy,126,No,3.000039040298406,Upsloping,3,Fixed defect,Yes
+77,Male,Asymptomatic,109,227,<= 120 mg/dl,Normal,169,Yes,5.564700424436921,Upsloping,3,Reversible defect,Yes
+45,Female,Atypical Angina,110,355,<= 120 mg/dl,Normal,68,No,5.628119710631108,Upsloping,1,Fixed defect,Yes
+62,Male,Asymptomatic,193,189,> 120 mg/dl,Left ventricular hypertrophy,176,Yes,0.54198420880072,Upsloping,0,Reversible defect,Yes
+38,Female,Typical Angina,147,302,> 120 mg/dl,Normal,70,Yes,5.8062586541234,Flat,0,Fixed defect,Yes
+35,Female,Atypical Angina,120,369,<= 120 mg/dl,Left ventricular hypertrophy,158,Yes,5.118316017426578,Downsloping,0,Fixed defect,Yes
+45,Female,Typical Angina,199,347,<= 120 mg/dl,ST-T wave abnormality,101,Yes,4.906126428738535,Downsloping,0,Reversible defect,Yes
+58,Female,Typical Angina,189,221,> 120 mg/dl,Normal,200,No,1.245650306050239,Flat,1,Reversible defect,Yes
+32,Female,Typical Angina,100,194,<= 120 mg/dl,ST-T wave abnormality,179,Yes,4.991739094278922,Flat,1,Normal,Yes
+49,Female,Typical Angina,141,335,<= 120 mg/dl,ST-T wave abnormality,200,No,5.270822955047229,Downsloping,1,Normal,Yes
+65,Male,Atypical Angina,104,322,> 120 mg/dl,Normal,71,No,1.792732073615736,Downsloping,1,Fixed defect,Yes
+48,Male,Typical Angina,172,311,> 120 mg/dl,Left ventricular hypertrophy,96,Yes,5.904012485846407,Flat,0,Fixed defect,Yes
+55,Female,Typical Angina,96,368,> 120 mg/dl,Normal,133,Yes,0.3091329076748184,Flat,3,Fixed defect,Yes
+32,Female,Asymptomatic,117,361,<= 120 mg/dl,ST-T wave abnormality,132,Yes,0.9294373701322659,Upsloping,2,Reversible defect,Yes
+48,Male,Atypical Angina,140,298,<= 120 mg/dl,ST-T wave abnormality,111,Yes,3.333003055919389,Upsloping,1,Reversible defect,Yes
+49,Female,Atypical Angina,196,338,> 120 mg/dl,Left ventricular hypertrophy,189,No,3.56991332095832,Downsloping,3,Normal,Yes
+61,Female,Non-anginal Pain,147,201,> 120 mg/dl,Normal,115,Yes,3.9999305164656014,Flat,1,Fixed defect,Yes
+36,Male,Atypical Angina,94,211,<= 120 mg/dl,ST-T wave abnormality,119,No,0.10520860175589204,Downsloping,0,Normal,Yes
+70,Female,Atypical Angina,94,294,> 120 mg/dl,ST-T wave abnormality,82,Yes,5.954274002657208,Upsloping,0,Reversible defect,Yes
+62,Female,Non-anginal Pain,183,358,<= 120 mg/dl,ST-T wave abnormality,162,Yes,0.27644617495169277,Upsloping,3,Reversible defect,Yes
+69,Female,Atypical Angina,185,379,<= 120 mg/dl,Left ventricular hypertrophy,99,Yes,0.8869841068850948,Downsloping,3,Reversible defect,Yes
+68,Male,Atypical Angina,97,282,> 120 mg/dl,ST-T wave abnormality,123,Yes,0.08689000866155328,Upsloping,3,Normal,Yes
+47,Male,Atypical Angina,153,167,> 120 mg/dl,ST-T wave abnormality,144,No,3.514522286423387,Flat,0,Reversible defect,Yes
+69,Male,Atypical Angina,99,235,<= 120 mg/dl,Normal,148,No,5.780054680310028,Downsloping,0,Fixed defect,Yes
+30,Female,Non-anginal Pain,127,344,> 120 mg/dl,Normal,90,Yes,4.128872429698879,Flat,2,Normal,Yes
+40,Female,Atypical Angina,185,266,> 120 mg/dl,ST-T wave abnormality,79,No,5.10047630457865,Flat,3,Reversible defect,Yes
+57,Male,Atypical Angina,181,182,> 120 mg/dl,ST-T wave abnormality,189,No,0.08234346144319651,Upsloping,2,Normal,Yes
+54,Female,Non-anginal Pain,170,132,> 120 mg/dl,Normal,72,Yes,3.3604948505743018,Flat,1,Normal,Yes
+79,Female,Asymptomatic,184,308,<= 120 mg/dl,Left ventricular hypertrophy,181,Yes,2.849290460534236,Downsloping,2,Reversible defect,Yes
+52,Female,Typical Angina,97,327,<= 120 mg/dl,Left ventricular hypertrophy,162,No,3.093601254168917,Flat,1,Reversible defect,Yes
+60,Female,Asymptomatic,193,233,<= 120 mg/dl,Left ventricular hypertrophy,165,No,0.44772174907816525,Flat,1,Normal,Yes
+59,Female,Non-anginal Pain,114,141,<= 120 mg/dl,Left ventricular hypertrophy,178,No,4.243499238629706,Flat,2,Normal,Yes
+71,Male,Typical Angina,162,333,> 120 mg/dl,Left ventricular hypertrophy,129,No,3.1199665721235337,Flat,3,Reversible defect,Yes
+64,Female,Non-anginal Pain,155,290,> 120 mg/dl,Left ventricular hypertrophy,158,Yes,4.743922869139837,Flat,1,Fixed defect,Yes
+36,Male,Non-anginal Pain,168,173,<= 120 mg/dl,Left ventricular hypertrophy,141,Yes,3.008801931182635,Upsloping,3,Normal,Yes
+45,Female,Atypical Angina,139,245,<= 120 mg/dl,Left ventricular hypertrophy,134,No,0.9261661446038789,Downsloping,0,Normal,No
+55,Male,Typical Angina,156,396,> 120 mg/dl,Normal,177,Yes,4.019193115282497,Upsloping,1,Fixed defect,Yes
+77,Female,Atypical Angina,138,323,<= 120 mg/dl,Left ventricular hypertrophy,143,No,1.0687954450520307,Downsloping,0,Reversible defect,Yes
+78,Male,Typical Angina,125,313,<= 120 mg/dl,Left ventricular hypertrophy,128,No,5.408846292799852,Downsloping,2,Reversible defect,Yes
+31,Female,Non-anginal Pain,157,288,> 120 mg/dl,Left ventricular hypertrophy,118,Yes,3.8013206822292975,Downsloping,3,Fixed defect,Yes
+30,Male,Non-anginal Pain,167,271,<= 120 mg/dl,ST-T wave abnormality,185,No,0.9746640780531164,Downsloping,2,Reversible defect,Yes
+77,Female,Asymptomatic,194,154,> 120 mg/dl,Normal,170,No,5.966495956383483,Downsloping,1,Reversible defect,Yes
+41,Male,Typical Angina,130,303,> 120 mg/dl,Normal,121,Yes,3.213865872678988,Flat,0,Normal,Yes
+34,Female,Atypical Angina,178,176,<= 120 mg/dl,Normal,187,Yes,0.451970401604261,Upsloping,1,Normal,No
+66,Male,Asymptomatic,151,341,> 120 mg/dl,Left ventricular hypertrophy,164,No,3.886364007373417,Upsloping,2,Normal,Yes
+61,Male,Asymptomatic,99,282,<= 120 mg/dl,Left ventricular hypertrophy,127,No,1.5698332234794234,Flat,3,Fixed defect,Yes
+38,Female,Asymptomatic,110,138,> 120 mg/dl,ST-T wave abnormality,74,Yes,4.982899401639275,Downsloping,3,Reversible defect,Yes
+70,Female,Atypical Angina,125,383,<= 120 mg/dl,Normal,94,No,5.070496856110382,Upsloping,1,Reversible defect,Yes
+64,Male,Asymptomatic,101,232,<= 120 mg/dl,Left ventricular hypertrophy,73,No,6.069473606298904,Flat,1,Normal,Yes
+48,Female,Atypical Angina,180,149,<= 120 mg/dl,Normal,161,Yes,3.111591092351923,Flat,0,Normal,No
+77,Male,Asymptomatic,193,254,> 120 mg/dl,ST-T wave abnormality,159,Yes,2.8207326543119704,Upsloping,2,Fixed defect,Yes
+45,Male,Atypical Angina,91,186,> 120 mg/dl,ST-T wave abnormality,66,Yes,4.67154875376818,Upsloping,1,Reversible defect,Yes
+32,Male,Non-anginal Pain,102,184,<= 120 mg/dl,ST-T wave abnormality,89,Yes,0.8213180693199447,Downsloping,0,Fixed defect,Yes
+49,Female,Non-anginal Pain,142,144,> 120 mg/dl,Normal,108,Yes,3.39087618551737,Downsloping,1,Reversible defect,Yes
+53,Male,Non-anginal Pain,121,156,<= 120 mg/dl,Left ventricular hypertrophy,170,Yes,3.386735120811276,Upsloping,3,Fixed defect,Yes
+62,Male,Non-anginal Pain,184,120,<= 120 mg/dl,Left ventricular hypertrophy,131,No,0.5547333614244008,Downsloping,0,Normal,Yes
+53,Female,Non-anginal Pain,105,156,> 120 mg/dl,ST-T wave abnormality,139,No,2.591501330142864,Flat,0,Fixed defect,Yes
+40,Female,Asymptomatic,121,260,<= 120 mg/dl,Left ventricular hypertrophy,142,Yes,5.290365751116652,Downsloping,1,Fixed defect,Yes
+78,Female,Asymptomatic,121,351,> 120 mg/dl,ST-T wave abnormality,101,Yes,5.308152456366894,Downsloping,2,Normal,Yes
+37,Female,Asymptomatic,187,255,<= 120 mg/dl,Normal,76,No,0.6152735225020223,Flat,3,Reversible defect,Yes
+65,Male,Atypical Angina,100,307,> 120 mg/dl,ST-T wave abnormality,66,No,0.5624694730365514,Downsloping,2,Reversible defect,Yes
+67,Male,Atypical Angina,99,247,<= 120 mg/dl,Normal,69,No,1.6287119574119988,Flat,0,Normal,Yes
+69,Male,Atypical Angina,104,320,<= 120 mg/dl,ST-T wave abnormality,93,Yes,5.42354958783476,Downsloping,2,Fixed defect,Yes
+49,Male,Atypical Angina,106,246,> 120 mg/dl,Left ventricular hypertrophy,95,Yes,0.7991960274556935,Upsloping,0,Fixed defect,Yes
+64,Female,Non-anginal Pain,129,376,<= 120 mg/dl,Left ventricular hypertrophy,65,No,4.463980176290167,Downsloping,2,Fixed defect,Yes
+77,Male,Non-anginal Pain,107,283,<= 120 mg/dl,ST-T wave abnormality,193,Yes,0.62722684160124,Upsloping,1,Reversible defect,Yes
+54,Male,Non-anginal Pain,144,154,> 120 mg/dl,Left ventricular hypertrophy,88,Yes,3.8634546932365175,Upsloping,2,Fixed defect,Yes
+64,Female,Typical Angina,162,313,<= 120 mg/dl,Left ventricular hypertrophy,185,Yes,2.207617254538698,Upsloping,0,Reversible defect,Yes
+54,Male,Asymptomatic,114,310,> 120 mg/dl,Left ventricular hypertrophy,140,No,4.8912665703883755,Upsloping,3,Fixed defect,Yes
+58,Male,Atypical Angina,193,223,<= 120 mg/dl,Normal,134,No,1.4488807827172543,Upsloping,3,Normal,Yes
+47,Male,Atypical Angina,148,142,> 120 mg/dl,Left ventricular hypertrophy,85,Yes,3.963051342217751,Flat,3,Normal,Yes
+75,Male,Non-anginal Pain,167,384,<= 120 mg/dl,Normal,186,Yes,1.4612317143704867,Flat,0,Reversible defect,Yes
+47,Male,Atypical Angina,178,379,<= 120 mg/dl,ST-T wave abnormality,174,Yes,4.424693755295354,Flat,2,Reversible defect,Yes
+31,Male,Atypical Angina,111,194,<= 120 mg/dl,Left ventricular hypertrophy,185,Yes,5.416803814276642,Upsloping,3,Normal,Yes
+64,Female,Asymptomatic,119,191,> 120 mg/dl,Left ventricular hypertrophy,87,Yes,0.7861711545859122,Downsloping,3,Normal,Yes
+45,Female,Non-anginal Pain,173,378,> 120 mg/dl,Left ventricular hypertrophy,190,No,5.372893269292122,Flat,3,Fixed defect,Yes
+70,Male,Asymptomatic,174,307,> 120 mg/dl,ST-T wave abnormality,134,Yes,3.6801665773686474,Downsloping,1,Normal,Yes
+65,Male,Typical Angina,133,292,> 120 mg/dl,Normal,137,Yes,0.7880850433755486,Downsloping,0,Reversible defect,Yes
+62,Female,Typical Angina,121,164,<= 120 mg/dl,Normal,149,Yes,2.6507595032302147,Upsloping,0,Normal,Yes
+33,Male,Typical Angina,140,180,<= 120 mg/dl,Left ventricular hypertrophy,80,No,0.9973338196076069,Upsloping,0,Reversible defect,Yes
+62,Male,Non-anginal Pain,135,202,> 120 mg/dl,ST-T wave abnormality,113,No,4.342156910972731,Upsloping,0,Reversible defect,Yes
+43,Male,Atypical Angina,110,242,> 120 mg/dl,ST-T wave abnormality,162,Yes,4.7049824333912875,Flat,0,Fixed defect,Yes
+50,Female,Non-anginal Pain,188,135,> 120 mg/dl,ST-T wave abnormality,118,No,0.6559384256913535,Upsloping,1,Fixed defect,Yes
+77,Male,Non-anginal Pain,121,185,<= 120 mg/dl,ST-T wave abnormality,131,No,3.138067086706795,Flat,2,Fixed defect,Yes
+49,Female,Atypical Angina,183,264,> 120 mg/dl,ST-T wave abnormality,79,No,5.050675347360687,Flat,1,Fixed defect,Yes
+37,Male,Asymptomatic,128,281,> 120 mg/dl,Normal,171,No,5.804210857616178,Flat,3,Normal,Yes
+36,Female,Typical Angina,101,353,<= 120 mg/dl,Normal,118,No,3.183810773798974,Flat,1,Fixed defect,Yes
+32,Female,Asymptomatic,194,263,<= 120 mg/dl,Normal,130,No,5.891731186390724,Upsloping,0,Normal,Yes
+46,Male,Typical Angina,136,307,> 120 mg/dl,Left ventricular hypertrophy,196,Yes,3.321271616827385,Flat,1,Fixed defect,Yes
+62,Female,Non-anginal Pain,107,132,<= 120 mg/dl,ST-T wave abnormality,168,No,2.4439810665194295,Upsloping,0,Fixed defect,Yes
+77,Male,Typical Angina,110,303,> 120 mg/dl,Left ventricular hypertrophy,188,No,5.258859397027952,Upsloping,1,Reversible defect,Yes
+41,Female,Non-anginal Pain,102,230,<= 120 mg/dl,ST-T wave abnormality,115,Yes,3.0564928048401523,Flat,0,Normal,Yes
+51,Male,Asymptomatic,110,334,> 120 mg/dl,Normal,94,Yes,2.9257955655000427,Upsloping,3,Reversible defect,Yes
+51,Male,Non-anginal Pain,97,239,> 120 mg/dl,Left ventricular hypertrophy,182,Yes,3.0399374343409353,Downsloping,0,Fixed defect,Yes
+75,Female,Asymptomatic,135,174,> 120 mg/dl,Normal,190,Yes,5.250067011592422,Upsloping,1,Normal,Yes
+59,Male,Atypical Angina,193,146,> 120 mg/dl,ST-T wave abnormality,163,No,5.1580375584659235,Upsloping,3,Fixed defect,Yes
+67,Male,Atypical Angina,199,237,<= 120 mg/dl,ST-T wave abnormality,66,No,2.5018239531293096,Flat,1,Reversible defect,Yes
+67,Female,Atypical Angina,96,340,<= 120 mg/dl,ST-T wave abnormality,86,No,2.0664591311972553,Flat,3,Normal,Yes
+74,Male,Non-anginal Pain,112,350,<= 120 mg/dl,Normal,60,No,3.0499537490426016,Upsloping,2,Reversible defect,Yes
+37,Male,Atypical Angina,197,172,<= 120 mg/dl,ST-T wave abnormality,146,Yes,3.551189560370076,Flat,2,Fixed defect,Yes
+56,Female,Typical Angina,185,352,> 120 mg/dl,Normal,100,No,1.477690705893581,Downsloping,2,Fixed defect,Yes
+56,Female,Asymptomatic,164,277,> 120 mg/dl,Left ventricular hypertrophy,182,No,4.922521525236662,Downsloping,1,Fixed defect,Yes
+63,Male,Asymptomatic,175,388,<= 120 mg/dl,ST-T wave abnormality,134,Yes,3.016193147541022,Flat,1,Normal,Yes
+50,Male,Typical Angina,111,140,<= 120 mg/dl,ST-T wave abnormality,101,No,2.0710824002037493,Upsloping,3,Reversible defect,Yes
+59,Female,Non-anginal Pain,196,172,<= 120 mg/dl,ST-T wave abnormality,176,No,0.6622901563767418,Downsloping,3,Reversible defect,Yes
+62,Female,Non-anginal Pain,178,394,<= 120 mg/dl,Left ventricular hypertrophy,122,No,1.480839994502363,Downsloping,3,Fixed defect,Yes
+57,Male,Asymptomatic,111,333,<= 120 mg/dl,ST-T wave abnormality,186,No,5.885543264887099,Upsloping,3,Reversible defect,Yes
+76,Female,Atypical Angina,181,150,> 120 mg/dl,Normal,192,Yes,1.8916180582810649,Flat,0,Normal,Yes
+62,Male,Non-anginal Pain,118,302,> 120 mg/dl,Normal,107,Yes,1.046927594075619,Downsloping,2,Fixed defect,Yes
+34,Male,Non-anginal Pain,102,142,> 120 mg/dl,ST-T wave abnormality,62,Yes,2.856171308260958,Upsloping,0,Fixed defect,Yes
+77,Male,Typical Angina,171,151,<= 120 mg/dl,ST-T wave abnormality,175,Yes,1.903944008833542,Upsloping,0,Fixed defect,Yes
+48,Male,Typical Angina,91,193,<= 120 mg/dl,Left ventricular hypertrophy,158,Yes,0.21798735168140376,Downsloping,0,Normal,Yes
+33,Male,Atypical Angina,118,129,<= 120 mg/dl,Left ventricular hypertrophy,175,No,2.003500347132387,Flat,0,Fixed defect,No
+64,Female,Non-anginal Pain,174,173,<= 120 mg/dl,Left ventricular hypertrophy,73,No,3.3734734684247054,Downsloping,2,Fixed defect,Yes
+78,Female,Non-anginal Pain,168,171,> 120 mg/dl,ST-T wave abnormality,171,Yes,3.420616706523795,Upsloping,0,Fixed defect,Yes
+46,Female,Typical Angina,141,267,> 120 mg/dl,Left ventricular hypertrophy,120,Yes,2.21066531129671,Downsloping,3,Fixed defect,Yes
+73,Female,Non-anginal Pain,116,279,<= 120 mg/dl,Left ventricular hypertrophy,154,Yes,2.773277088766124,Flat,1,Reversible defect,Yes
+57,Male,Asymptomatic,139,133,> 120 mg/dl,Normal,76,No,5.986211093055552,Upsloping,3,Fixed defect,Yes
+59,Male,Typical Angina,184,297,> 120 mg/dl,Left ventricular hypertrophy,183,Yes,2.339560558827932,Flat,1,Normal,Yes
+58,Male,Atypical Angina,168,172,<= 120 mg/dl,Normal,83,No,1.6010062422118945,Downsloping,3,Fixed defect,Yes
+75,Male,Typical Angina,112,141,<= 120 mg/dl,Normal,175,No,1.5094956732139129,Downsloping,3,Fixed defect,No
+35,Female,Non-anginal Pain,177,149,<= 120 mg/dl,Left ventricular hypertrophy,141,No,2.838140598765632,Flat,1,Reversible defect,Yes
+64,Male,Atypical Angina,133,310,<= 120 mg/dl,Normal,109,No,4.709024922045053,Downsloping,2,Fixed defect,Yes
+70,Male,Typical Angina,166,379,<= 120 mg/dl,ST-T wave abnormality,138,Yes,1.277126741968534,Flat,0,Reversible defect,Yes
+66,Female,Asymptomatic,111,324,<= 120 mg/dl,ST-T wave abnormality,138,No,4.3976359882727625,Downsloping,3,Normal,Yes
+53,Female,Asymptomatic,132,178,> 120 mg/dl,Left ventricular hypertrophy,129,No,0.13112890476638098,Flat,2,Reversible defect,Yes
+58,Female,Typical Angina,126,383,> 120 mg/dl,ST-T wave abnormality,86,Yes,2.5973844635004655,Flat,0,Fixed defect,Yes
+78,Female,Asymptomatic,150,131,<= 120 mg/dl,Normal,74,No,4.810363404257279,Upsloping,2,Normal,Yes
+75,Male,Asymptomatic,186,238,> 120 mg/dl,ST-T wave abnormality,109,No,2.100144325801475,Upsloping,2,Fixed defect,Yes
+60,Male,Asymptomatic,145,367,<= 120 mg/dl,Left ventricular hypertrophy,95,No,3.4951700289614767,Flat,0,Reversible defect,Yes
+64,Female,Atypical Angina,92,246,<= 120 mg/dl,Left ventricular hypertrophy,67,Yes,1.270871243520647,Downsloping,3,Normal,Yes
+62,Male,Asymptomatic,152,194,<= 120 mg/dl,Normal,138,No,4.600371424982268,Downsloping,2,Normal,Yes
+50,Male,Asymptomatic,108,323,<= 120 mg/dl,Left ventricular hypertrophy,190,No,0.32413044026630966,Downsloping,3,Reversible defect,Yes
+61,Male,Asymptomatic,112,168,> 120 mg/dl,ST-T wave abnormality,106,Yes,5.285764398228102,Flat,3,Reversible defect,Yes
+52,Female,Atypical Angina,118,198,<= 120 mg/dl,Left ventricular hypertrophy,164,Yes,1.2288175958143426,Flat,3,Normal,Yes
+62,Male,Typical Angina,119,360,> 120 mg/dl,Normal,157,No,5.421267796591651,Flat,0,Normal,Yes
+32,Female,Non-anginal Pain,128,273,<= 120 mg/dl,Left ventricular hypertrophy,155,No,2.1856812960632075,Flat,1,Reversible defect,Yes
+47,Male,Asymptomatic,197,393,<= 120 mg/dl,ST-T wave abnormality,175,Yes,4.480638161741817,Upsloping,3,Fixed defect,Yes
+54,Male,Typical Angina,114,215,<= 120 mg/dl,Normal,72,No,1.9791968462743685,Flat,1,Normal,Yes
+71,Male,Asymptomatic,190,333,> 120 mg/dl,ST-T wave abnormality,60,Yes,5.616652361654815,Downsloping,1,Reversible defect,Yes
+60,Female,Atypical Angina,97,328,<= 120 mg/dl,Normal,93,No,0.7851501782139211,Upsloping,2,Fixed defect,No
+32,Male,Typical Angina,195,207,<= 120 mg/dl,Left ventricular hypertrophy,138,Yes,1.106822693490112,Downsloping,3,Normal,Yes
+69,Female,Atypical Angina,147,383,<= 120 mg/dl,Normal,137,No,3.056786775984574,Flat,3,Normal,Yes
+75,Female,Asymptomatic,105,276,> 120 mg/dl,Normal,180,Yes,0.508018322036506,Upsloping,3,Reversible defect,Yes
+53,Female,Asymptomatic,161,275,> 120 mg/dl,Left ventricular hypertrophy,152,Yes,1.215077145150924,Flat,1,Fixed defect,Yes
+79,Male,Atypical Angina,90,258,> 120 mg/dl,ST-T wave abnormality,157,Yes,5.851351569714489,Upsloping,0,Normal,Yes
+61,Male,Non-anginal Pain,197,240,<= 120 mg/dl,Left ventricular hypertrophy,141,Yes,6.0542358991169,Downsloping,1,Fixed defect,Yes
+76,Male,Atypical Angina,94,184,> 120 mg/dl,Normal,97,Yes,2.332807841848616,Flat,3,Fixed defect,Yes
+51,Male,Asymptomatic,92,226,<= 120 mg/dl,Left ventricular hypertrophy,73,No,5.724373330286401,Flat,3,Normal,Yes
+52,Female,Atypical Angina,154,266,> 120 mg/dl,Normal,195,No,3.377912989175277,Upsloping,3,Fixed defect,Yes
+31,Female,Non-anginal Pain,93,256,> 120 mg/dl,Left ventricular hypertrophy,150,Yes,1.6724032884173556,Upsloping,1,Normal,Yes
+56,Female,Atypical Angina,193,281,<= 120 mg/dl,Left ventricular hypertrophy,113,No,4.354872070699711,Flat,3,Fixed defect,Yes
+71,Male,Non-anginal Pain,188,219,> 120 mg/dl,ST-T wave abnormality,189,No,4.085191200764115,Upsloping,2,Normal,Yes
+31,Female,Non-anginal Pain,185,260,<= 120 mg/dl,Normal,160,No,6.132576978474147,Flat,3,Reversible defect,Yes
+55,Male,Atypical Angina,153,202,<= 120 mg/dl,ST-T wave abnormality,148,No,1.6432931819375565,Upsloping,0,Normal,No
+46,Female,Atypical Angina,195,296,> 120 mg/dl,Normal,115,No,4.16676891650276,Downsloping,2,Normal,Yes
+69,Male,Typical Angina,187,317,<= 120 mg/dl,Left ventricular hypertrophy,153,No,0.32254728118257076,Upsloping,3,Normal,Yes
+62,Male,Asymptomatic,196,231,<= 120 mg/dl,Normal,152,Yes,0.7046054399196604,Downsloping,2,Fixed defect,Yes
+38,Female,Non-anginal Pain,178,175,> 120 mg/dl,ST-T wave abnormality,143,No,0.024293924696778223,Upsloping,3,Reversible defect,No
+72,Female,Typical Angina,99,298,> 120 mg/dl,ST-T wave abnormality,144,No,6.196656222569973,Upsloping,0,Fixed defect,Yes
+77,Female,Atypical Angina,110,305,<= 120 mg/dl,ST-T wave abnormality,81,No,4.974096922314362,Flat,3,Fixed defect,Yes
+68,Female,Asymptomatic,135,337,> 120 mg/dl,Normal,94,Yes,4.877682691347953,Upsloping,2,Normal,Yes
+58,Male,Typical Angina,192,336,<= 120 mg/dl,ST-T wave abnormality,75,No,3.1603016667867143,Upsloping,0,Fixed defect,Yes
+71,Female,Non-anginal Pain,180,239,<= 120 mg/dl,ST-T wave abnormality,109,No,1.8604159140137275,Downsloping,1,Normal,Yes
+55,Female,Typical Angina,116,294,> 120 mg/dl,ST-T wave abnormality,181,No,0.9378385636685908,Upsloping,0,Reversible defect,Yes
+64,Female,Non-anginal Pain,155,142,> 120 mg/dl,Left ventricular hypertrophy,187,Yes,1.7649833808480748,Flat,0,Fixed defect,Yes
+79,Male,Atypical Angina,130,332,> 120 mg/dl,Left ventricular hypertrophy,172,No,2.3310215759606625,Downsloping,0,Fixed defect,Yes
+54,Male,Asymptomatic,102,354,> 120 mg/dl,Normal,76,Yes,4.689122601277823,Flat,2,Fixed defect,Yes
+53,Female,Asymptomatic,98,132,<= 120 mg/dl,Normal,139,No,3.345903091199545,Flat,0,Normal,No
+42,Male,Asymptomatic,125,220,<= 120 mg/dl,ST-T wave abnormality,189,Yes,0.48039848464399265,Flat,3,Normal,Yes
+36,Female,Atypical Angina,175,143,> 120 mg/dl,Left ventricular hypertrophy,191,Yes,0.1117798555452559,Flat,0,Fixed defect,Yes
+65,Male,Non-anginal Pain,195,130,> 120 mg/dl,ST-T wave abnormality,144,Yes,0.6344595131111915,Downsloping,0,Fixed defect,Yes
+74,Male,Atypical Angina,179,392,<= 120 mg/dl,ST-T wave abnormality,153,No,2.545092024923752,Upsloping,3,Reversible defect,Yes
+49,Male,Asymptomatic,147,213,<= 120 mg/dl,Left ventricular hypertrophy,193,Yes,5.785796085703914,Flat,3,Reversible defect,Yes
+30,Male,Atypical Angina,143,320,<= 120 mg/dl,Left ventricular hypertrophy,140,Yes,3.951895383497174,Downsloping,1,Reversible defect,Yes
+37,Female,Atypical Angina,101,140,<= 120 mg/dl,Left ventricular hypertrophy,128,Yes,4.971320579228194,Flat,0,Reversible defect,Yes
+75,Female,Atypical Angina,170,330,> 120 mg/dl,Normal,128,Yes,2.891522485928201,Upsloping,2,Reversible defect,Yes
+45,Female,Non-anginal Pain,167,259,<= 120 mg/dl,Normal,75,No,2.2423297158092654,Downsloping,0,Normal,Yes
+43,Male,Typical Angina,103,220,<= 120 mg/dl,ST-T wave abnormality,110,No,0.6720823108430609,Downsloping,0,Reversible defect,Yes
+41,Female,Typical Angina,123,147,> 120 mg/dl,Normal,164,No,5.430784737554471,Upsloping,3,Reversible defect,Yes
+52,Female,Atypical Angina,142,160,<= 120 mg/dl,Left ventricular hypertrophy,125,No,4.855592179972998,Downsloping,1,Fixed defect,Yes
+44,Female,Typical Angina,109,265,<= 120 mg/dl,Left ventricular hypertrophy,68,Yes,1.0423322051058956,Upsloping,0,Normal,Yes
+57,Male,Typical Angina,164,375,> 120 mg/dl,Normal,166,No,3.1760154960328153,Downsloping,2,Reversible defect,Yes
+63,Male,Atypical Angina,105,346,> 120 mg/dl,ST-T wave abnormality,159,Yes,3.0217238091117182,Downsloping,0,Reversible defect,Yes
+31,Male,Atypical Angina,184,355,> 120 mg/dl,ST-T wave abnormality,145,No,3.8755676266564776,Upsloping,2,Reversible defect,Yes
+61,Female,Asymptomatic,159,132,<= 120 mg/dl,Normal,123,No,5.8663587427458195,Upsloping,3,Fixed defect,Yes
+52,Female,Typical Angina,145,329,<= 120 mg/dl,ST-T wave abnormality,81,No,3.594582938927374,Downsloping,1,Fixed defect,Yes
+51,Female,Non-anginal Pain,172,348,> 120 mg/dl,ST-T wave abnormality,169,Yes,3.3493470540274353,Downsloping,0,Fixed defect,Yes
+54,Male,Atypical Angina,190,219,> 120 mg/dl,ST-T wave abnormality,156,No,0.3120021841949165,Upsloping,1,Reversible defect,Yes
+51,Male,Asymptomatic,147,150,<= 120 mg/dl,Left ventricular hypertrophy,77,No,0.3900263513117484,Upsloping,0,Fixed defect,Yes
+51,Female,Non-anginal Pain,93,135,> 120 mg/dl,Left ventricular hypertrophy,130,No,1.1615501062260911,Downsloping,2,Reversible defect,Yes
+78,Male,Typical Angina,93,256,> 120 mg/dl,Normal,186,Yes,0.20131878448883933,Downsloping,1,Normal,Yes
+71,Male,Asymptomatic,109,285,> 120 mg/dl,Left ventricular hypertrophy,156,No,4.608787952534077,Downsloping,0,Reversible defect,Yes
+35,Male,Atypical Angina,99,219,<= 120 mg/dl,ST-T wave abnormality,60,No,4.4846478847625715,Upsloping,3,Fixed defect,Yes
+44,Male,Non-anginal Pain,113,228,<= 120 mg/dl,Left ventricular hypertrophy,191,Yes,0.8435486534761862,Downsloping,2,Normal,Yes
+72,Female,Atypical Angina,188,292,<= 120 mg/dl,Normal,63,Yes,5.183689184930742,Flat,1,Reversible defect,Yes
+66,Male,Typical Angina,115,356,<= 120 mg/dl,Left ventricular hypertrophy,184,No,0.9596734160458943,Upsloping,0,Normal,Yes
+62,Male,Non-anginal Pain,126,281,<= 120 mg/dl,ST-T wave abnormality,141,No,1.8672886393836245,Downsloping,1,Normal,Yes
+37,Male,Typical Angina,191,335,<= 120 mg/dl,ST-T wave abnormality,86,No,1.543656774800463,Upsloping,0,Normal,Yes
+73,Male,Typical Angina,174,383,> 120 mg/dl,Normal,118,Yes,2.308304011152896,Flat,2,Reversible defect,Yes
+73,Female,Asymptomatic,143,382,<= 120 mg/dl,Left ventricular hypertrophy,91,Yes,1.5789153485177636,Upsloping,3,Fixed defect,Yes
+34,Female,Atypical Angina,193,393,<= 120 mg/dl,Left ventricular hypertrophy,87,Yes,3.031495743918403,Downsloping,2,Reversible defect,Yes
+68,Male,Non-anginal Pain,192,122,> 120 mg/dl,Left ventricular hypertrophy,165,No,2.5259288643990496,Flat,1,Fixed defect,Yes
+33,Male,Typical Angina,110,147,<= 120 mg/dl,ST-T wave abnormality,164,Yes,6.116730842831824,Flat,1,Reversible defect,Yes
+35,Male,Typical Angina,163,268,<= 120 mg/dl,Normal,129,No,0.3467433707949991,Downsloping,0,Reversible defect,Yes
+74,Male,Non-anginal Pain,127,147,> 120 mg/dl,Left ventricular hypertrophy,121,Yes,0.8815245336015801,Downsloping,2,Reversible defect,Yes
+61,Male,Typical Angina,135,184,> 120 mg/dl,ST-T wave abnormality,93,Yes,0.32752054223333543,Downsloping,0,Fixed defect,Yes
+59,Male,Asymptomatic,93,140,> 120 mg/dl,ST-T wave abnormality,146,Yes,3.88021540889073,Upsloping,2,Reversible defect,Yes
+76,Female,Asymptomatic,149,371,<= 120 mg/dl,ST-T wave abnormality,173,No,0.3379575199650614,Upsloping,1,Normal,No
+64,Male,Asymptomatic,146,354,> 120 mg/dl,Left ventricular hypertrophy,165,No,5.185926371731965,Upsloping,0,Reversible defect,Yes
+69,Female,Asymptomatic,134,346,<= 120 mg/dl,Left ventricular hypertrophy,115,No,3.1740195102279523,Downsloping,0,Normal,Yes
+45,Female,Typical Angina,109,132,<= 120 mg/dl,Left ventricular hypertrophy,172,No,3.267447272405509,Downsloping,2,Fixed defect,Yes
+42,Male,Non-anginal Pain,106,168,<= 120 mg/dl,Left ventricular hypertrophy,72,Yes,3.4818859478156043,Upsloping,3,Fixed defect,Yes
+79,Female,Non-anginal Pain,160,237,<= 120 mg/dl,Left ventricular hypertrophy,77,No,1.0590449790985066,Flat,2,Reversible defect,Yes
+71,Female,Non-anginal Pain,93,173,> 120 mg/dl,Left ventricular hypertrophy,172,Yes,1.2256798793098227,Upsloping,3,Reversible defect,Yes
+59,Female,Non-anginal Pain,182,257,> 120 mg/dl,Left ventricular hypertrophy,98,No,1.9766674018126291,Flat,2,Reversible defect,Yes
+48,Female,Atypical Angina,103,172,<= 120 mg/dl,Left ventricular hypertrophy,138,No,3.679677778095479,Downsloping,1,Normal,Yes
+46,Female,Non-anginal Pain,92,163,> 120 mg/dl,Left ventricular hypertrophy,89,Yes,1.3027302108293302,Downsloping,0,Fixed defect,Yes
+48,Female,Atypical Angina,177,172,<= 120 mg/dl,ST-T wave abnormality,157,Yes,0.7212567082262197,Upsloping,2,Normal,Yes
+57,Male,Atypical Angina,190,193,<= 120 mg/dl,Left ventricular hypertrophy,117,No,6.01472469579428,Upsloping,1,Normal,Yes
+55,Female,Asymptomatic,169,165,<= 120 mg/dl,Normal,126,No,0.13628725181966206,Downsloping,2,Reversible defect,Yes
+66,Female,Atypical Angina,147,132,> 120 mg/dl,ST-T wave abnormality,130,Yes,4.976723913083334,Upsloping,0,Reversible defect,Yes
+55,Female,Typical Angina,144,284,<= 120 mg/dl,Left ventricular hypertrophy,165,Yes,4.885817927365137,Downsloping,2,Normal,Yes
+52,Male,Atypical Angina,93,221,<= 120 mg/dl,Normal,66,Yes,1.8427275058395953,Downsloping,3,Normal,Yes
+38,Female,Asymptomatic,113,399,> 120 mg/dl,Left ventricular hypertrophy,99,Yes,0.8408850192453431,Flat,0,Reversible defect,Yes
+41,Male,Atypical Angina,123,377,> 120 mg/dl,Normal,129,Yes,0.9028976095736252,Upsloping,3,Reversible defect,Yes
+30,Female,Typical Angina,119,257,> 120 mg/dl,Normal,127,No,4.324076026870594,Downsloping,1,Normal,Yes
+30,Male,Typical Angina,171,282,> 120 mg/dl,Normal,108,No,3.985400864734277,Upsloping,1,Reversible defect,Yes
+76,Male,Typical Angina,108,230,<= 120 mg/dl,Normal,111,No,4.853023180358598,Flat,2,Reversible defect,Yes
+63,Female,Asymptomatic,120,221,> 120 mg/dl,ST-T wave abnormality,173,No,5.8123832688744494,Flat,3,Normal,Yes
+61,Female,Asymptomatic,149,136,<= 120 mg/dl,ST-T wave abnormality,166,Yes,4.28994965225287,Upsloping,3,Normal,Yes
+77,Male,Non-anginal Pain,149,387,> 120 mg/dl,Normal,88,Yes,0.9662795266189494,Upsloping,0,Fixed defect,Yes
+54,Female,Asymptomatic,108,301,> 120 mg/dl,Left ventricular hypertrophy,137,Yes,1.5093442239455463,Downsloping,3,Normal,Yes
+69,Male,Typical Angina,138,143,> 120 mg/dl,Normal,68,No,5.22160113141331,Flat,3,Reversible defect,Yes
+74,Male,Typical Angina,152,148,> 120 mg/dl,ST-T wave abnormality,135,Yes,1.2976976701720933,Flat,0,Normal,Yes
+30,Male,Asymptomatic,199,290,> 120 mg/dl,Left ventricular hypertrophy,101,Yes,0.44963836511778477,Flat,0,Normal,Yes
+45,Male,Atypical Angina,172,347,> 120 mg/dl,ST-T wave abnormality,187,No,4.360336335061953,Upsloping,3,Normal,Yes
+68,Male,Asymptomatic,111,307,<= 120 mg/dl,ST-T wave abnormality,79,No,2.4956634040388805,Downsloping,2,Fixed defect,Yes
+34,Female,Asymptomatic,113,349,> 120 mg/dl,Left ventricular hypertrophy,131,No,5.704248325784603,Upsloping,0,Fixed defect,Yes
+51,Male,Typical Angina,198,238,> 120 mg/dl,Normal,124,Yes,4.031581440780702,Upsloping,0,Reversible defect,Yes
+58,Male,Non-anginal Pain,165,275,> 120 mg/dl,Normal,172,Yes,0.5605976623082967,Upsloping,3,Fixed defect,Yes
+32,Female,Typical Angina,119,391,> 120 mg/dl,Normal,83,No,5.876710716972696,Downsloping,3,Normal,Yes
+41,Male,Non-anginal Pain,147,294,<= 120 mg/dl,Normal,187,No,1.6030550345695247,Upsloping,0,Fixed defect,Yes
+55,Female,Typical Angina,191,223,> 120 mg/dl,Left ventricular hypertrophy,142,Yes,2.0907174405189717,Flat,3,Normal,Yes
+45,Female,Asymptomatic,120,211,> 120 mg/dl,Left ventricular hypertrophy,122,No,2.494014564837961,Flat,0,Fixed defect,Yes
+66,Female,Typical Angina,189,305,> 120 mg/dl,Left ventricular hypertrophy,119,Yes,0.3175906377067422,Flat,2,Fixed defect,Yes
+51,Male,Typical Angina,153,300,> 120 mg/dl,ST-T wave abnormality,158,No,3.07839561782975,Downsloping,2,Fixed defect,Yes
+58,Male,Typical Angina,108,289,<= 120 mg/dl,Left ventricular hypertrophy,121,No,0.7645746446668119,Upsloping,0,Normal,Yes
+43,Male,Asymptomatic,137,306,> 120 mg/dl,Normal,89,No,2.486016025467781,Downsloping,0,Fixed defect,Yes
+57,Female,Asymptomatic,134,294,<= 120 mg/dl,ST-T wave abnormality,81,Yes,2.1744006855509226,Upsloping,1,Normal,Yes
+34,Male,Asymptomatic,189,341,> 120 mg/dl,Normal,185,Yes,4.791608517244321,Flat,1,Normal,Yes
+76,Female,Asymptomatic,183,352,<= 120 mg/dl,Normal,101,No,4.979657172122933,Upsloping,3,Reversible defect,Yes
+78,Male,Non-anginal Pain,144,281,<= 120 mg/dl,Left ventricular hypertrophy,157,Yes,0.9511598708123457,Upsloping,3,Fixed defect,Yes
+59,Female,Non-anginal Pain,144,253,> 120 mg/dl,Left ventricular hypertrophy,90,No,2.2726173617512027,Upsloping,0,Reversible defect,Yes
+75,Male,Atypical Angina,186,343,> 120 mg/dl,Normal,171,No,2.3147895983973568,Downsloping,0,Reversible defect,Yes
+34,Male,Asymptomatic,107,272,<= 120 mg/dl,Normal,181,Yes,0.9387447524037273,Upsloping,1,Normal,Yes
+41,Male,Non-anginal Pain,152,152,<= 120 mg/dl,ST-T wave abnormality,76,Yes,4.950411731317382,Upsloping,1,Fixed defect,Yes
+45,Female,Typical Angina,181,174,> 120 mg/dl,Left ventricular hypertrophy,97,Yes,4.384815635679624,Upsloping,0,Normal,Yes
+55,Female,Asymptomatic,136,126,<= 120 mg/dl,ST-T wave abnormality,201,Yes,1.1803670750416153,Downsloping,2,Normal,Yes
+55,Male,Atypical Angina,164,363,<= 120 mg/dl,ST-T wave abnormality,169,No,2.2736758332815543,Downsloping,2,Fixed defect,Yes
+77,Male,Atypical Angina,146,245,<= 120 mg/dl,ST-T wave abnormality,81,Yes,0.6559911541103882,Downsloping,3,Normal,Yes
+50,Female,Atypical Angina,134,131,> 120 mg/dl,Normal,115,Yes,3.8948809019768724,Upsloping,0,Fixed defect,Yes
+68,Female,Typical Angina,122,135,<= 120 mg/dl,ST-T wave abnormality,178,No,0.752505932201442,Flat,0,Fixed defect,Yes
+65,Female,Non-anginal Pain,106,327,<= 120 mg/dl,ST-T wave abnormality,116,No,6.11279184547449,Flat,3,Normal,Yes
+62,Male,Typical Angina,159,162,<= 120 mg/dl,Normal,94,No,4.8402288630647465,Flat,1,Normal,Yes
+59,Female,Asymptomatic,93,254,> 120 mg/dl,Left ventricular hypertrophy,173,No,2.4194790074207693,Upsloping,1,Reversible defect,Yes
+66,Male,Atypical Angina,109,347,> 120 mg/dl,Left ventricular hypertrophy,184,Yes,3.5870963801319977,Flat,2,Normal,Yes
+52,Female,Typical Angina,136,230,<= 120 mg/dl,ST-T wave abnormality,188,Yes,5.6503192605417345,Flat,0,Fixed defect,Yes
+39,Male,Typical Angina,180,279,> 120 mg/dl,Normal,111,No,3.435415538454122,Flat,1,Reversible defect,Yes
+34,Female,Non-anginal Pain,104,383,<= 120 mg/dl,Left ventricular hypertrophy,144,No,1.081890615667322,Upsloping,2,Fixed defect,Yes
+65,Female,Non-anginal Pain,159,344,> 120 mg/dl,ST-T wave abnormality,124,Yes,2.3479608046031877,Flat,2,Reversible defect,Yes
+63,Female,Atypical Angina,136,336,> 120 mg/dl,ST-T wave abnormality,188,Yes,5.227498163184421,Flat,2,Normal,Yes
+60,Female,Typical Angina,167,164,<= 120 mg/dl,Normal,80,Yes,3.994120699135631,Upsloping,1,Normal,Yes
+39,Female,Typical Angina,164,333,> 120 mg/dl,ST-T wave abnormality,75,Yes,4.034491182869562,Downsloping,1,Normal,Yes
+48,Male,Non-anginal Pain,192,178,> 120 mg/dl,Left ventricular hypertrophy,182,Yes,5.374293211268633,Flat,0,Fixed defect,Yes
+61,Female,Typical Angina,98,251,> 120 mg/dl,Normal,120,No,5.542632956267529,Downsloping,0,Reversible defect,Yes
+30,Female,Typical Angina,179,223,<= 120 mg/dl,Left ventricular hypertrophy,113,No,5.702713945032505,Flat,2,Fixed defect,Yes
+34,Female,Typical Angina,105,314,> 120 mg/dl,Left ventricular hypertrophy,85,No,0.5880649981695679,Upsloping,2,Reversible defect,Yes
+74,Male,Non-anginal Pain,158,276,> 120 mg/dl,Left ventricular hypertrophy,139,No,3.3735812121712256,Downsloping,1,Normal,Yes
+33,Female,Atypical Angina,150,217,<= 120 mg/dl,ST-T wave abnormality,124,Yes,4.591159031553575,Downsloping,1,Fixed defect,Yes
+45,Male,Asymptomatic,99,345,> 120 mg/dl,ST-T wave abnormality,159,No,4.692946439787486,Downsloping,0,Normal,Yes
+53,Female,Atypical Angina,139,324,> 120 mg/dl,Left ventricular hypertrophy,133,Yes,3.761640452214024,Downsloping,0,Fixed defect,Yes
+45,Female,Asymptomatic,92,198,> 120 mg/dl,Left ventricular hypertrophy,76,Yes,1.03408147813878,Flat,3,Normal,Yes
+31,Male,Typical Angina,166,243,> 120 mg/dl,Normal,180,Yes,4.944007434438319,Flat,0,Fixed defect,Yes
+78,Female,Atypical Angina,196,337,> 120 mg/dl,Normal,82,Yes,4.464690267792664,Downsloping,1,Fixed defect,Yes
+57,Male,Asymptomatic,183,123,<= 120 mg/dl,ST-T wave abnormality,194,Yes,0.534041783604025,Flat,2,Reversible defect,Yes
+61,Male,Non-anginal Pain,198,209,<= 120 mg/dl,ST-T wave abnormality,130,Yes,2.875620912981133,Downsloping,3,Normal,Yes
+56,Female,Non-anginal Pain,159,223,> 120 mg/dl,Normal,167,Yes,1.0786598770351823,Downsloping,0,Reversible defect,Yes
+49,Male,Atypical Angina,170,238,> 120 mg/dl,Left ventricular hypertrophy,138,No,2.092357683420426,Upsloping,0,Reversible defect,Yes
+53,Female,Atypical Angina,198,252,> 120 mg/dl,ST-T wave abnormality,105,Yes,0.1121027716752497,Downsloping,1,Normal,Yes
+41,Female,Typical Angina,140,215,<= 120 mg/dl,Left ventricular hypertrophy,137,No,2.4820451841467013,Flat,3,Fixed defect,Yes
+79,Male,Atypical Angina,108,262,<= 120 mg/dl,Normal,75,No,3.409236911168505,Downsloping,0,Reversible defect,Yes
+64,Male,Typical Angina,131,147,> 120 mg/dl,ST-T wave abnormality,130,Yes,3.8414120755279386,Upsloping,2,Normal,Yes
+62,Male,Typical Angina,124,397,> 120 mg/dl,ST-T wave abnormality,155,Yes,4.113640139798003,Flat,1,Fixed defect,Yes
+62,Male,Non-anginal Pain,135,352,<= 120 mg/dl,Normal,61,No,5.1850061412352515,Upsloping,3,Reversible defect,Yes
+72,Female,Non-anginal Pain,115,136,> 120 mg/dl,ST-T wave abnormality,69,No,1.3358700251095261,Upsloping,0,Reversible defect,Yes
+66,Female,Asymptomatic,158,178,<= 120 mg/dl,Normal,184,No,0.7469872991185013,Downsloping,0,Reversible defect,Yes
+41,Male,Non-anginal Pain,182,209,<= 120 mg/dl,ST-T wave abnormality,140,No,5.279530465767139,Upsloping,3,Fixed defect,Yes
+32,Female,Non-anginal Pain,153,318,> 120 mg/dl,Normal,199,Yes,0.9709994523344293,Upsloping,1,Reversible defect,No
+30,Female,Atypical Angina,126,145,<= 120 mg/dl,ST-T wave abnormality,129,Yes,6.043512504284411,Flat,3,Fixed defect,Yes
+62,Female,Non-anginal Pain,173,144,> 120 mg/dl,Left ventricular hypertrophy,91,Yes,5.22373702227155,Upsloping,3,Reversible defect,Yes
+69,Female,Asymptomatic,138,386,> 120 mg/dl,Left ventricular hypertrophy,164,No,3.1054349565155146,Downsloping,1,Normal,Yes
+39,Male,Atypical Angina,110,300,> 120 mg/dl,Left ventricular hypertrophy,143,Yes,6.084812834516557,Downsloping,0,Reversible defect,Yes
+72,Male,Asymptomatic,163,187,> 120 mg/dl,ST-T wave abnormality,188,No,0.6037357204696261,Downsloping,2,Normal,Yes
+73,Female,Non-anginal Pain,153,168,> 120 mg/dl,ST-T wave abnormality,117,Yes,1.8790077192856303,Upsloping,1,Normal,Yes
+58,Male,Asymptomatic,94,294,> 120 mg/dl,Left ventricular hypertrophy,193,No,3.956991373251791,Flat,2,Normal,Yes
+42,Male,Atypical Angina,189,171,<= 120 mg/dl,Left ventricular hypertrophy,104,Yes,2.170042584533708,Downsloping,0,Fixed defect,Yes
+41,Male,Typical Angina,159,221,<= 120 mg/dl,Normal,156,Yes,5.755909822280909,Upsloping,3,Normal,Yes
+60,Female,Asymptomatic,179,335,<= 120 mg/dl,Normal,82,No,0.4068817467024689,Downsloping,2,Reversible defect,Yes
+75,Female,Asymptomatic,93,307,<= 120 mg/dl,Normal,82,No,3.4063533587779804,Downsloping,0,Fixed defect,Yes
+31,Female,Atypical Angina,192,176,> 120 mg/dl,Left ventricular hypertrophy,194,No,3.66337085784971,Flat,0,Normal,Yes
+79,Male,Atypical Angina,128,166,<= 120 mg/dl,Left ventricular hypertrophy,138,No,4.04691436741879,Downsloping,3,Fixed defect,Yes
+64,Female,Asymptomatic,124,278,<= 120 mg/dl,Left ventricular hypertrophy,103,No,1.5851305846572497,Flat,3,Fixed defect,Yes
+52,Female,Non-anginal Pain,90,293,<= 120 mg/dl,Normal,86,Yes,2.2603118506231596,Upsloping,0,Fixed defect,Yes
+46,Male,Asymptomatic,113,361,> 120 mg/dl,ST-T wave abnormality,85,No,5.2308192839228616,Downsloping,0,Reversible defect,Yes
+55,Female,Atypical Angina,146,360,<= 120 mg/dl,Left ventricular hypertrophy,156,Yes,1.208645167614991,Upsloping,2,Normal,Yes
+37,Female,Typical Angina,189,124,> 120 mg/dl,ST-T wave abnormality,95,Yes,5.1265806524748445,Upsloping,0,Fixed defect,Yes
+58,Male,Typical Angina,159,203,<= 120 mg/dl,ST-T wave abnormality,168,Yes,3.488463621997003,Upsloping,0,Fixed defect,Yes
+55,Male,Non-anginal Pain,130,367,> 120 mg/dl,ST-T wave abnormality,114,Yes,4.725562569403309,Downsloping,2,Fixed defect,Yes
+39,Male,Asymptomatic,143,173,> 120 mg/dl,Normal,128,Yes,4.424365670833524,Flat,1,Normal,Yes
+55,Female,Typical Angina,135,280,<= 120 mg/dl,ST-T wave abnormality,120,No,1.2865712713862498,Downsloping,2,Fixed defect,Yes
+63,Female,Asymptomatic,149,345,> 120 mg/dl,Left ventricular hypertrophy,189,No,3.5266389658900117,Upsloping,2,Fixed defect,Yes
+70,Female,Atypical Angina,197,134,> 120 mg/dl,Normal,114,Yes,5.3798835473915725,Flat,3,Reversible defect,Yes
+36,Male,Typical Angina,149,343,<= 120 mg/dl,Left ventricular hypertrophy,181,Yes,2.679120668171962,Upsloping,2,Normal,Yes
+33,Male,Non-anginal Pain,146,180,<= 120 mg/dl,Left ventricular hypertrophy,156,No,5.992862775384564,Flat,0,Reversible defect,Yes
+79,Female,Atypical Angina,120,241,<= 120 mg/dl,Normal,139,No,2.803733620630652,Downsloping,0,Normal,Yes
+74,Female,Non-anginal Pain,173,396,> 120 mg/dl,Left ventricular hypertrophy,146,Yes,0.8852709473408851,Flat,0,Normal,Yes
+40,Male,Atypical Angina,113,165,> 120 mg/dl,Left ventricular hypertrophy,97,No,2.414495016481574,Downsloping,1,Normal,Yes
+58,Male,Typical Angina,178,181,> 120 mg/dl,Normal,178,No,5.900554919621331,Upsloping,0,Reversible defect,Yes
+65,Male,Non-anginal Pain,125,205,<= 120 mg/dl,Left ventricular hypertrophy,137,No,1.9822692659070962,Flat,1,Reversible defect,Yes
+54,Male,Non-anginal Pain,174,329,> 120 mg/dl,ST-T wave abnormality,94,Yes,5.3822085911757895,Upsloping,0,Reversible defect,Yes
+50,Female,Atypical Angina,119,197,> 120 mg/dl,Left ventricular hypertrophy,138,No,5.463754226427717,Flat,2,Reversible defect,Yes
+65,Male,Non-anginal Pain,113,321,> 120 mg/dl,ST-T wave abnormality,126,Yes,2.1711564508581587,Downsloping,3,Fixed defect,Yes
+39,Female,Atypical Angina,197,342,> 120 mg/dl,Left ventricular hypertrophy,146,Yes,0.5161974799139192,Flat,0,Fixed defect,Yes
+66,Female,Atypical Angina,195,341,> 120 mg/dl,Normal,93,Yes,4.492259036784673,Flat,1,Fixed defect,Yes
+38,Female,Atypical Angina,119,122,> 120 mg/dl,Normal,156,Yes,1.9313762538867134,Downsloping,1,Normal,Yes
+53,Male,Atypical Angina,175,125,> 120 mg/dl,Left ventricular hypertrophy,130,Yes,4.854126408396949,Downsloping,3,Fixed defect,Yes
+64,Male,Typical Angina,181,212,<= 120 mg/dl,Normal,62,No,2.7444600592146853,Downsloping,0,Normal,Yes
+78,Male,Atypical Angina,96,127,<= 120 mg/dl,Left ventricular hypertrophy,117,Yes,3.008653802524254,Flat,2,Reversible defect,Yes
+64,Male,Asymptomatic,124,354,<= 120 mg/dl,Normal,91,Yes,4.8230383218409285,Upsloping,0,Normal,Yes
+77,Female,Non-anginal Pain,144,227,> 120 mg/dl,ST-T wave abnormality,90,Yes,2.370652652582093,Flat,0,Normal,Yes
+65,Male,Asymptomatic,181,280,> 120 mg/dl,Left ventricular hypertrophy,141,No,2.7473895410020703,Flat,3,Fixed defect,Yes
+47,Male,Typical Angina,103,328,<= 120 mg/dl,ST-T wave abnormality,102,No,2.3323809063716574,Upsloping,0,Reversible defect,Yes
+78,Female,Asymptomatic,99,359,> 120 mg/dl,ST-T wave abnormality,194,No,2.277511194719136,Downsloping,2,Reversible defect,Yes
+68,Male,Non-anginal Pain,169,169,<= 120 mg/dl,Left ventricular hypertrophy,164,No,3.2608687767890485,Flat,1,Fixed defect,Yes
+61,Female,Asymptomatic,105,130,> 120 mg/dl,ST-T wave abnormality,60,No,5.014556555907134,Upsloping,3,Reversible defect,Yes
+53,Female,Typical Angina,143,275,> 120 mg/dl,Left ventricular hypertrophy,120,No,2.2429635339199083,Downsloping,2,Reversible defect,Yes
+52,Female,Atypical Angina,184,189,<= 120 mg/dl,ST-T wave abnormality,73,No,3.2503792673339675,Downsloping,1,Reversible defect,Yes
+61,Female,Asymptomatic,195,288,<= 120 mg/dl,Left ventricular hypertrophy,65,Yes,4.158509417744125,Flat,3,Fixed defect,Yes
+66,Female,Typical Angina,178,391,<= 120 mg/dl,Left ventricular hypertrophy,162,Yes,1.6705245670826612,Downsloping,3,Reversible defect,Yes
+41,Female,Typical Angina,166,187,<= 120 mg/dl,Normal,69,No,1.7206413903948339,Downsloping,1,Normal,Yes
+78,Female,Non-anginal Pain,159,371,<= 120 mg/dl,Left ventricular hypertrophy,130,Yes,5.78716138754542,Upsloping,1,Normal,Yes
+42,Female,Non-anginal Pain,133,167,> 120 mg/dl,Left ventricular hypertrophy,149,Yes,4.485914354652749,Upsloping,2,Reversible defect,Yes
+52,Male,Asymptomatic,162,303,> 120 mg/dl,ST-T wave abnormality,185,No,3.578557392584515,Downsloping,0,Fixed defect,Yes
+54,Male,Atypical Angina,134,306,> 120 mg/dl,Left ventricular hypertrophy,156,Yes,4.015864337407795,Upsloping,0,Fixed defect,Yes
+64,Male,Typical Angina,189,209,<= 120 mg/dl,Normal,133,Yes,0.18165654724119387,Downsloping,0,Fixed defect,Yes
+70,Male,Asymptomatic,145,258,<= 120 mg/dl,ST-T wave abnormality,174,No,3.8322383864825205,Flat,0,Reversible defect,Yes
+59,Female,Typical Angina,196,208,<= 120 mg/dl,ST-T wave abnormality,110,Yes,3.158955013990052,Upsloping,0,Reversible defect,Yes
+46,Male,Typical Angina,173,393,<= 120 mg/dl,Normal,115,No,3.3836480146325014,Downsloping,2,Normal,Yes
+78,Female,Atypical Angina,171,138,<= 120 mg/dl,ST-T wave abnormality,100,No,2.228427726351066,Downsloping,3,Fixed defect,Yes
+49,Male,Atypical Angina,196,273,<= 120 mg/dl,ST-T wave abnormality,91,Yes,0.5051381658202397,Upsloping,2,Normal,Yes
+77,Male,Asymptomatic,146,379,> 120 mg/dl,ST-T wave abnormality,74,Yes,1.1987032483947235,Upsloping,2,Normal,Yes
+54,Male,Atypical Angina,110,227,> 120 mg/dl,ST-T wave abnormality,121,Yes,5.894617221918565,Flat,2,Fixed defect,Yes
+51,Female,Atypical Angina,157,178,> 120 mg/dl,Normal,87,No,2.5339372860797904,Downsloping,3,Reversible defect,Yes
+42,Male,Asymptomatic,139,244,> 120 mg/dl,Normal,123,No,2.893435566151358,Flat,2,Reversible defect,Yes
+48,Female,Atypical Angina,122,392,> 120 mg/dl,ST-T wave abnormality,189,No,0.32680069709132176,Flat,2,Normal,Yes
+78,Female,Non-anginal Pain,180,226,<= 120 mg/dl,ST-T wave abnormality,186,Yes,0.23291062317267966,Flat,3,Normal,Yes
+65,Male,Typical Angina,96,364,<= 120 mg/dl,Normal,95,Yes,4.446524971689898,Upsloping,2,Normal,Yes
+41,Male,Typical Angina,159,366,<= 120 mg/dl,Normal,173,No,3.33618691755089,Flat,0,Normal,Yes
+70,Male,Typical Angina,104,127,<= 120 mg/dl,Normal,72,Yes,3.1539771021408534,Upsloping,1,Fixed defect,Yes
+48,Female,Typical Angina,171,260,<= 120 mg/dl,ST-T wave abnormality,74,Yes,1.507372088620546,Upsloping,2,Normal,Yes
+41,Male,Asymptomatic,121,127,<= 120 mg/dl,ST-T wave abnormality,148,No,4.617454536105518,Flat,1,Normal,Yes
+38,Female,Typical Angina,164,213,> 120 mg/dl,Left ventricular hypertrophy,81,No,1.0430667904726496,Flat,2,Reversible defect,Yes
+36,Female,Typical Angina,109,158,<= 120 mg/dl,Normal,133,Yes,1.1775954106983242,Downsloping,2,Reversible defect,Yes
+57,Male,Typical Angina,177,200,<= 120 mg/dl,ST-T wave abnormality,84,No,2.856415462359308,Flat,0,Reversible defect,Yes
+43,Male,Typical Angina,104,306,<= 120 mg/dl,Normal,160,Yes,1.7749351450940336,Downsloping,3,Fixed defect,Yes
+60,Female,Non-anginal Pain,137,203,<= 120 mg/dl,ST-T wave abnormality,176,No,1.5342704836455074,Flat,1,Fixed defect,Yes
+48,Female,Typical Angina,160,207,> 120 mg/dl,Normal,100,No,4.000473396230657,Flat,3,Reversible defect,Yes
+76,Female,Non-anginal Pain,110,361,> 120 mg/dl,ST-T wave abnormality,147,No,4.036024820354976,Flat,0,Reversible defect,Yes
+45,Male,Asymptomatic,131,212,<= 120 mg/dl,Left ventricular hypertrophy,169,Yes,5.112005832759562,Flat,0,Normal,Yes
+34,Female,Atypical Angina,115,205,> 120 mg/dl,Left ventricular hypertrophy,179,Yes,2.5897931152324505,Downsloping,1,Normal,Yes
+64,Male,Typical Angina,197,163,> 120 mg/dl,Normal,156,No,0.4531275643621315,Downsloping,3,Fixed defect,Yes
+41,Female,Atypical Angina,103,256,<= 120 mg/dl,ST-T wave abnormality,116,No,1.6967315865130377,Flat,0,Fixed defect,No
+54,Female,Atypical Angina,146,193,<= 120 mg/dl,ST-T wave abnormality,189,No,6.076033871820265,Flat,2,Normal,Yes
+50,Male,Asymptomatic,126,155,<= 120 mg/dl,Normal,155,Yes,3.696803166442753,Downsloping,2,Reversible defect,Yes
+65,Female,Atypical Angina,147,220,<= 120 mg/dl,ST-T wave abnormality,180,No,4.400369925766325,Upsloping,2,Normal,Yes
+52,Male,Non-anginal Pain,110,275,<= 120 mg/dl,Normal,121,No,0.04561854367757012,Upsloping,3,Fixed defect,Yes
+45,Male,Atypical Angina,171,374,> 120 mg/dl,ST-T wave abnormality,196,No,3.2128755395316295,Upsloping,2,Fixed defect,Yes
+68,Female,Atypical Angina,158,290,<= 120 mg/dl,Normal,127,No,0.23267767669717937,Downsloping,2,Normal,Yes
+74,Male,Atypical Angina,92,335,<= 120 mg/dl,ST-T wave abnormality,140,Yes,3.5292273149669775,Downsloping,0,Normal,Yes
+71,Male,Typical Angina,176,289,<= 120 mg/dl,Normal,76,Yes,5.708779267743667,Upsloping,0,Normal,Yes
+68,Female,Typical Angina,179,371,> 120 mg/dl,ST-T wave abnormality,176,No,6.004198609102529,Upsloping,2,Fixed defect,Yes
+43,Male,Non-anginal Pain,126,174,<= 120 mg/dl,Left ventricular hypertrophy,109,Yes,3.35142658741133,Flat,2,Reversible defect,Yes
+60,Male,Non-anginal Pain,177,210,<= 120 mg/dl,ST-T wave abnormality,171,Yes,2.840869792563739,Downsloping,0,Normal,Yes
+34,Male,Typical Angina,138,397,<= 120 mg/dl,Normal,153,Yes,5.859105984340663,Downsloping,1,Fixed defect,Yes
+64,Female,Non-anginal Pain,108,220,> 120 mg/dl,Left ventricular hypertrophy,144,No,4.17638095837951,Upsloping,3,Fixed defect,Yes
+52,Male,Typical Angina,178,274,<= 120 mg/dl,ST-T wave abnormality,133,Yes,0.4023755331381387,Upsloping,3,Fixed defect,Yes
+58,Female,Asymptomatic,174,260,<= 120 mg/dl,Left ventricular hypertrophy,168,Yes,2.887498581538485,Downsloping,0,Normal,Yes
+72,Female,Atypical Angina,101,292,<= 120 mg/dl,ST-T wave abnormality,77,Yes,1.4895191144786843,Flat,3,Normal,Yes
+40,Male,Atypical Angina,150,129,> 120 mg/dl,Left ventricular hypertrophy,101,No,2.9127867929818256,Upsloping,0,Reversible defect,Yes
+47,Male,Non-anginal Pain,130,347,<= 120 mg/dl,Normal,160,No,2.823886546439443,Downsloping,0,Fixed defect,Yes
+76,Male,Typical Angina,122,384,<= 120 mg/dl,ST-T wave abnormality,104,Yes,3.609297777451401,Downsloping,0,Normal,Yes
+41,Female,Typical Angina,139,367,<= 120 mg/dl,ST-T wave abnormality,141,Yes,2.211977040165358,Flat,0,Fixed defect,Yes
+38,Male,Non-anginal Pain,157,366,> 120 mg/dl,Normal,76,No,1.018476786626754,Flat,1,Fixed defect,Yes
+39,Male,Typical Angina,195,274,<= 120 mg/dl,Left ventricular hypertrophy,132,No,3.123060494457729,Upsloping,2,Reversible defect,Yes
+73,Male,Asymptomatic,160,153,<= 120 mg/dl,Normal,73,Yes,5.147257882943725,Upsloping,2,Normal,Yes
+46,Male,Atypical Angina,175,248,<= 120 mg/dl,Normal,191,Yes,4.116875814019134,Upsloping,1,Normal,Yes
+67,Male,Non-anginal Pain,122,279,> 120 mg/dl,Left ventricular hypertrophy,141,No,2.097880768736338,Downsloping,3,Fixed defect,Yes
+36,Female,Non-anginal Pain,170,208,> 120 mg/dl,Normal,179,No,5.800242741104915,Upsloping,3,Fixed defect,Yes
+75,Female,Typical Angina,113,212,<= 120 mg/dl,ST-T wave abnormality,179,Yes,5.655686941744929,Downsloping,2,Reversible defect,Yes
+42,Male,Non-anginal Pain,150,360,> 120 mg/dl,ST-T wave abnormality,106,No,1.2979600761814125,Upsloping,3,Reversible defect,Yes
+69,Male,Asymptomatic,150,236,> 120 mg/dl,ST-T wave abnormality,166,Yes,0.24438902774625046,Flat,2,Reversible defect,Yes
+71,Male,Typical Angina,187,213,> 120 mg/dl,Normal,167,Yes,4.596113991774726,Flat,2,Reversible defect,Yes
+38,Male,Typical Angina,117,282,<= 120 mg/dl,ST-T wave abnormality,68,Yes,5.131183620364751,Downsloping,1,Reversible defect,Yes
+79,Female,Typical Angina,147,218,<= 120 mg/dl,ST-T wave abnormality,138,No,6.0007603088984025,Flat,3,Reversible defect,Yes
+56,Male,Typical Angina,132,232,> 120 mg/dl,ST-T wave abnormality,74,Yes,5.516985643347526,Downsloping,1,Fixed defect,Yes
+31,Female,Asymptomatic,130,210,> 120 mg/dl,ST-T wave abnormality,78,Yes,3.723315562879772,Downsloping,2,Reversible defect,Yes
+34,Female,Typical Angina,128,325,> 120 mg/dl,ST-T wave abnormality,149,No,3.286324503116761,Flat,2,Fixed defect,Yes
+58,Male,Non-anginal Pain,175,136,<= 120 mg/dl,ST-T wave abnormality,85,No,0.17261451782803502,Downsloping,2,Fixed defect,Yes
+66,Female,Asymptomatic,138,393,<= 120 mg/dl,Normal,151,Yes,1.5292699704376227,Flat,0,Normal,Yes
+67,Female,Atypical Angina,106,292,> 120 mg/dl,ST-T wave abnormality,141,Yes,2.849611460744144,Upsloping,0,Fixed defect,Yes
+48,Female,Atypical Angina,187,235,> 120 mg/dl,ST-T wave abnormality,190,No,3.8967241805181208,Upsloping,0,Fixed defect,Yes
+37,Female,Non-anginal Pain,159,300,> 120 mg/dl,Left ventricular hypertrophy,101,No,3.454961366574146,Flat,1,Reversible defect,Yes
+77,Male,Non-anginal Pain,199,210,> 120 mg/dl,Normal,78,No,4.604343136026482,Flat,2,Fixed defect,Yes
+74,Male,Asymptomatic,159,201,<= 120 mg/dl,Normal,76,Yes,1.7345549714996533,Flat,3,Reversible defect,Yes
+30,Female,Atypical Angina,187,233,> 120 mg/dl,Normal,135,Yes,3.5027061674453344,Flat,1,Reversible defect,Yes
+51,Male,Atypical Angina,154,376,<= 120 mg/dl,Normal,122,Yes,0.5464819090229113,Upsloping,1,Reversible defect,Yes
+46,Male,Atypical Angina,163,177,> 120 mg/dl,ST-T wave abnormality,190,No,2.564726246215883,Downsloping,1,Normal,Yes
+36,Male,Atypical Angina,174,273,> 120 mg/dl,ST-T wave abnormality,166,Yes,4.650997164318526,Downsloping,3,Reversible defect,Yes
+54,Male,Atypical Angina,94,235,> 120 mg/dl,Left ventricular hypertrophy,108,No,4.299085291260073,Upsloping,2,Fixed defect,Yes
+74,Male,Typical Angina,91,385,> 120 mg/dl,Left ventricular hypertrophy,114,Yes,6.14198497046751,Downsloping,0,Reversible defect,Yes
+33,Female,Non-anginal Pain,111,322,> 120 mg/dl,Normal,158,No,1.7229249811240872,Upsloping,2,Reversible defect,Yes
+65,Male,Typical Angina,146,160,<= 120 mg/dl,Left ventricular hypertrophy,111,Yes,3.0887736548786706,Downsloping,2,Reversible defect,Yes
+35,Male,Atypical Angina,155,224,> 120 mg/dl,Left ventricular hypertrophy,159,Yes,2.04308856539878,Flat,1,Normal,Yes
+60,Male,Asymptomatic,163,312,> 120 mg/dl,Normal,176,No,2.7317393071668836,Flat,1,Fixed defect,Yes
+48,Male,Asymptomatic,187,397,> 120 mg/dl,Normal,177,No,5.313090805190207,Flat,1,Normal,Yes
+73,Female,Atypical Angina,105,356,<= 120 mg/dl,Left ventricular hypertrophy,66,Yes,4.242096266168617,Upsloping,0,Fixed defect,Yes
+68,Female,Atypical Angina,140,340,<= 120 mg/dl,ST-T wave abnormality,105,No,5.471135386355007,Upsloping,0,Normal,Yes
+56,Female,Asymptomatic,128,187,<= 120 mg/dl,Left ventricular hypertrophy,105,No,1.261768871657696,Downsloping,0,Fixed defect,Yes
+39,Female,Typical Angina,175,316,<= 120 mg/dl,Left ventricular hypertrophy,159,Yes,5.414838930616916,Downsloping,2,Normal,Yes
+55,Male,Typical Angina,165,375,> 120 mg/dl,ST-T wave abnormality,113,No,0.37052609990598345,Downsloping,1,Reversible defect,Yes
+48,Female,Atypical Angina,177,258,> 120 mg/dl,ST-T wave abnormality,121,Yes,5.509315538710345,Upsloping,3,Normal,Yes
+68,Male,Typical Angina,129,268,> 120 mg/dl,Normal,188,Yes,2.0402574326565133,Downsloping,2,Normal,Yes
+32,Male,Asymptomatic,127,218,<= 120 mg/dl,Normal,108,No,1.9504433271672121,Flat,0,Reversible defect,No
+74,Male,Typical Angina,149,195,> 120 mg/dl,Left ventricular hypertrophy,84,No,3.1749491755317165,Downsloping,3,Reversible defect,Yes
+42,Male,Atypical Angina,148,228,> 120 mg/dl,ST-T wave abnormality,69,Yes,5.832279163884037,Flat,3,Fixed defect,Yes
+79,Male,Asymptomatic,99,307,<= 120 mg/dl,Normal,177,Yes,0.2962444610247133,Upsloping,1,Fixed defect,Yes
+57,Female,Typical Angina,188,318,<= 120 mg/dl,Left ventricular hypertrophy,151,Yes,2.183832045438621,Flat,3,Fixed defect,Yes
+49,Female,Non-anginal Pain,153,273,<= 120 mg/dl,ST-T wave abnormality,193,Yes,5.3107463298366815,Flat,0,Normal,Yes
+57,Female,Asymptomatic,152,159,> 120 mg/dl,Left ventricular hypertrophy,139,Yes,2.4555377600998938,Flat,1,Fixed defect,Yes
+37,Female,Asymptomatic,138,252,> 120 mg/dl,Normal,130,Yes,1.2347727651018154,Upsloping,3,Normal,Yes
+70,Male,Non-anginal Pain,153,251,<= 120 mg/dl,Normal,137,No,2.633723924254753,Upsloping,1,Normal,Yes
+68,Female,Non-anginal Pain,121,398,> 120 mg/dl,ST-T wave abnormality,102,No,2.3904255092483497,Upsloping,3,Fixed defect,Yes
+30,Male,Asymptomatic,96,203,<= 120 mg/dl,Left ventricular hypertrophy,149,No,5.6755804490935615,Upsloping,2,Fixed defect,Yes
+32,Female,Non-anginal Pain,110,361,<= 120 mg/dl,ST-T wave abnormality,137,Yes,4.723993129607202,Downsloping,2,Normal,Yes
+42,Male,Atypical Angina,109,235,> 120 mg/dl,Normal,85,No,3.1317164456128395,Upsloping,0,Reversible defect,Yes
+57,Male,Atypical Angina,115,228,<= 120 mg/dl,Normal,180,Yes,6.127897513673741,Flat,2,Reversible defect,Yes
+78,Female,Atypical Angina,157,340,<= 120 mg/dl,Left ventricular hypertrophy,104,Yes,2.8847206939107246,Upsloping,2,Normal,Yes
+54,Male,Asymptomatic,199,160,<= 120 mg/dl,Left ventricular hypertrophy,122,No,0.3610745510857064,Downsloping,2,Fixed defect,Yes
+62,Male,Non-anginal Pain,175,266,> 120 mg/dl,Left ventricular hypertrophy,127,Yes,1.6261007952529063,Downsloping,3,Normal,Yes
+67,Female,Non-anginal Pain,104,231,<= 120 mg/dl,ST-T wave abnormality,61,Yes,2.7036369773597384,Downsloping,3,Normal,Yes
+35,Male,Typical Angina,193,222,<= 120 mg/dl,Left ventricular hypertrophy,201,Yes,0.9727962697059447,Flat,1,Fixed defect,Yes
+73,Female,Typical Angina,174,165,<= 120 mg/dl,Left ventricular hypertrophy,167,Yes,5.874903783209067,Upsloping,3,Reversible defect,Yes
+74,Female,Non-anginal Pain,168,390,<= 120 mg/dl,Normal,89,Yes,4.7544631664701935,Upsloping,2,Normal,Yes
+61,Female,Non-anginal Pain,175,314,<= 120 mg/dl,Normal,108,Yes,1.6633806426521904,Upsloping,3,Reversible defect,Yes
+74,Male,Non-anginal Pain,181,399,<= 120 mg/dl,Left ventricular hypertrophy,199,No,3.662988107811078,Flat,0,Reversible defect,Yes
+76,Male,Asymptomatic,103,159,<= 120 mg/dl,Left ventricular hypertrophy,103,Yes,4.472984774079347,Flat,1,Fixed defect,Yes
+50,Male,Non-anginal Pain,116,308,> 120 mg/dl,Normal,72,Yes,5.835929359222147,Downsloping,1,Normal,Yes
+45,Female,Typical Angina,194,283,> 120 mg/dl,Left ventricular hypertrophy,137,Yes,5.466139164887546,Downsloping,3,Normal,Yes
+50,Male,Asymptomatic,129,143,<= 120 mg/dl,ST-T wave abnormality,185,Yes,3.194191802056925,Upsloping,2,Reversible defect,Yes
+40,Female,Non-anginal Pain,147,143,> 120 mg/dl,ST-T wave abnormality,157,No,4.80284624271671,Flat,1,Reversible defect,Yes
+66,Female,Typical Angina,117,123,> 120 mg/dl,ST-T wave abnormality,85,No,3.485297473731027,Flat,0,Fixed defect,Yes
+65,Male,Asymptomatic,115,300,<= 120 mg/dl,Left ventricular hypertrophy,107,Yes,3.4267641182823487,Upsloping,0,Reversible defect,Yes
+64,Female,Non-anginal Pain,152,367,> 120 mg/dl,Normal,125,Yes,0.7114001416967898,Upsloping,1,Fixed defect,Yes
+48,Male,Non-anginal Pain,155,235,<= 120 mg/dl,Left ventricular hypertrophy,146,Yes,0.7820534797001428,Downsloping,2,Normal,Yes
+49,Male,Non-anginal Pain,114,398,<= 120 mg/dl,Left ventricular hypertrophy,138,No,3.283108413139236,Downsloping,2,Fixed defect,Yes
+47,Male,Asymptomatic,92,188,<= 120 mg/dl,Normal,82,No,1.666941578869841,Downsloping,3,Reversible defect,Yes
+76,Male,Typical Angina,161,373,<= 120 mg/dl,Normal,140,No,0.13042879525490553,Upsloping,3,Normal,Yes
+70,Male,Typical Angina,133,300,<= 120 mg/dl,Normal,107,No,4.481603064181316,Upsloping,1,Fixed defect,Yes
+78,Female,Atypical Angina,186,288,> 120 mg/dl,ST-T wave abnormality,183,Yes,0.20141689947902275,Downsloping,3,Normal,Yes
+43,Female,Non-anginal Pain,131,368,<= 120 mg/dl,Left ventricular hypertrophy,189,No,3.6907164148451383,Downsloping,3,Fixed defect,Yes
+44,Female,Atypical Angina,188,307,> 120 mg/dl,Normal,143,No,3.3430015235893493,Flat,3,Reversible defect,Yes
+60,Male,Atypical Angina,95,173,<= 120 mg/dl,Left ventricular hypertrophy,79,Yes,6.006651081582388,Flat,0,Reversible defect,Yes
+30,Male,Typical Angina,128,257,<= 120 mg/dl,ST-T wave abnormality,105,Yes,3.0021214639553784,Downsloping,3,Normal,Yes
+32,Male,Asymptomatic,141,287,<= 120 mg/dl,ST-T wave abnormality,190,No,0.3943289055423436,Downsloping,1,Normal,Yes
+45,Female,Asymptomatic,112,222,> 120 mg/dl,Normal,71,No,3.4204654004000625,Flat,2,Normal,Yes
+52,Male,Typical Angina,178,204,<= 120 mg/dl,Normal,99,No,5.214796257819829,Downsloping,3,Fixed defect,Yes
+40,Female,Asymptomatic,139,331,<= 120 mg/dl,Left ventricular hypertrophy,125,No,6.180465562544928,Flat,2,Reversible defect,Yes
+41,Female,Atypical Angina,132,122,<= 120 mg/dl,Normal,159,Yes,2.6681276768722495,Flat,3,Normal,Yes
+39,Male,Non-anginal Pain,108,298,<= 120 mg/dl,Left ventricular hypertrophy,137,Yes,1.9858522034798036,Flat,1,Normal,Yes
+61,Male,Typical Angina,158,157,> 120 mg/dl,Normal,75,No,5.621250441102394,Upsloping,0,Normal,Yes
+45,Female,Non-anginal Pain,140,358,<= 120 mg/dl,Left ventricular hypertrophy,142,No,1.1857012002719525,Upsloping,1,Fixed defect,Yes
+37,Male,Asymptomatic,100,288,> 120 mg/dl,Left ventricular hypertrophy,103,No,3.815659273204145,Downsloping,0,Normal,Yes
+67,Female,Non-anginal Pain,101,149,<= 120 mg/dl,Left ventricular hypertrophy,193,No,2.515429429921876,Flat,3,Normal,Yes
+41,Male,Asymptomatic,163,309,> 120 mg/dl,Left ventricular hypertrophy,159,No,0.25471066272444276,Upsloping,3,Fixed defect,Yes
+53,Male,Asymptomatic,97,144,> 120 mg/dl,ST-T wave abnormality,81,Yes,2.153188540695326,Downsloping,0,Fixed defect,Yes
+57,Female,Atypical Angina,113,231,<= 120 mg/dl,Left ventricular hypertrophy,77,Yes,1.6444168395165826,Downsloping,1,Normal,Yes
+37,Male,Asymptomatic,181,325,<= 120 mg/dl,Normal,71,Yes,4.253765154449619,Downsloping,1,Normal,Yes
+57,Female,Atypical Angina,130,304,> 120 mg/dl,ST-T wave abnormality,182,No,5.882501085689893,Downsloping,0,Fixed defect,Yes
+65,Male,Atypical Angina,125,166,<= 120 mg/dl,ST-T wave abnormality,176,No,1.6618925617475542,Downsloping,3,Reversible defect,Yes
+55,Female,Atypical Angina,190,347,<= 120 mg/dl,Left ventricular hypertrophy,110,Yes,5.031088822740427,Flat,0,Fixed defect,Yes
+37,Female,Typical Angina,174,158,<= 120 mg/dl,ST-T wave abnormality,130,Yes,0.34323086501813904,Downsloping,3,Reversible defect,Yes
+79,Male,Typical Angina,161,135,> 120 mg/dl,Left ventricular hypertrophy,107,No,3.3363502622468415,Flat,0,Normal,Yes
+57,Female,Asymptomatic,144,141,<= 120 mg/dl,Normal,78,Yes,0.43741039500134643,Upsloping,3,Normal,Yes
+57,Male,Atypical Angina,98,332,<= 120 mg/dl,Left ventricular hypertrophy,65,No,5.791004545009964,Downsloping,0,Reversible defect,Yes
+66,Male,Typical Angina,136,268,<= 120 mg/dl,ST-T wave abnormality,143,No,4.7513779394558195,Upsloping,2,Fixed defect,Yes
+70,Male,Atypical Angina,104,360,> 120 mg/dl,Normal,112,Yes,4.079289449468472,Flat,3,Normal,Yes
+65,Female,Non-anginal Pain,137,391,<= 120 mg/dl,Left ventricular hypertrophy,166,Yes,5.108157566072919,Flat,1,Reversible defect,Yes
+56,Female,Non-anginal Pain,199,178,> 120 mg/dl,Normal,160,Yes,4.0146227325350115,Upsloping,0,Fixed defect,Yes
+46,Male,Non-anginal Pain,193,321,<= 120 mg/dl,Normal,107,No,6.0074552624806055,Downsloping,1,Reversible defect,Yes
+38,Male,Asymptomatic,171,151,> 120 mg/dl,ST-T wave abnormality,194,No,4.426539276761583,Downsloping,0,Fixed defect,Yes
+62,Female,Atypical Angina,131,281,<= 120 mg/dl,Normal,128,Yes,5.73288337940993,Upsloping,1,Fixed defect,Yes
+49,Male,Non-anginal Pain,149,374,<= 120 mg/dl,ST-T wave abnormality,70,No,3.206217730465956,Upsloping,1,Fixed defect,Yes
+42,Male,Typical Angina,173,373,> 120 mg/dl,Normal,190,No,0.7257993604875485,Upsloping,0,Fixed defect,Yes
+57,Female,Non-anginal Pain,159,128,> 120 mg/dl,Left ventricular hypertrophy,181,No,3.274701872822706,Downsloping,0,Reversible defect,Yes
+77,Male,Non-anginal Pain,101,258,> 120 mg/dl,Normal,128,Yes,0.7866115339911784,Downsloping,1,Reversible defect,Yes
+58,Female,Non-anginal Pain,91,129,<= 120 mg/dl,Left ventricular hypertrophy,82,No,3.6734595708937112,Downsloping,1,Reversible defect,Yes
+42,Male,Asymptomatic,96,333,<= 120 mg/dl,Left ventricular hypertrophy,96,Yes,2.99145697527151,Upsloping,1,Reversible defect,Yes
+75,Female,Typical Angina,169,392,<= 120 mg/dl,Normal,68,Yes,3.859967466563247,Downsloping,3,Reversible defect,Yes
+64,Male,Atypical Angina,92,167,<= 120 mg/dl,Left ventricular hypertrophy,74,No,0.06229128253995588,Flat,3,Fixed defect,Yes
+35,Male,Typical Angina,198,230,> 120 mg/dl,Normal,190,Yes,1.2080110482632576,Upsloping,2,Normal,Yes
+47,Female,Atypical Angina,92,272,<= 120 mg/dl,Normal,152,No,3.0462486778552114,Downsloping,3,Normal,Yes
+34,Male,Asymptomatic,116,242,<= 120 mg/dl,Left ventricular hypertrophy,76,Yes,5.893122081852637,Upsloping,3,Reversible defect,Yes
+76,Female,Asymptomatic,196,221,<= 120 mg/dl,Left ventricular hypertrophy,131,Yes,2.3783760502019824,Flat,0,Reversible defect,Yes
+54,Male,Asymptomatic,129,360,<= 120 mg/dl,ST-T wave abnormality,180,No,2.631106561532535,Flat,2,Normal,Yes
+31,Female,Asymptomatic,191,310,<= 120 mg/dl,Left ventricular hypertrophy,70,Yes,4.431115751841058,Upsloping,2,Fixed defect,Yes
+39,Female,Atypical Angina,122,336,<= 120 mg/dl,ST-T wave abnormality,131,Yes,3.7435150951739318,Upsloping,3,Reversible defect,Yes
+59,Female,Non-anginal Pain,181,170,<= 120 mg/dl,Left ventricular hypertrophy,165,Yes,1.853342130609666,Flat,0,Fixed defect,Yes
+79,Female,Atypical Angina,90,200,> 120 mg/dl,Normal,184,No,2.5470616525180523,Upsloping,0,Normal,Yes
+74,Male,Typical Angina,97,207,<= 120 mg/dl,Left ventricular hypertrophy,94,No,1.3497387529148412,Flat,2,Normal,Yes
+34,Male,Asymptomatic,190,313,<= 120 mg/dl,Normal,178,Yes,5.989333046607293,Flat,0,Reversible defect,Yes
+62,Female,Asymptomatic,121,223,<= 120 mg/dl,Normal,73,Yes,0.8099331656556303,Downsloping,1,Fixed defect,Yes
+30,Female,Typical Angina,137,390,<= 120 mg/dl,Normal,73,Yes,2.3053880643118005,Upsloping,3,Reversible defect,Yes
+47,Female,Atypical Angina,196,215,> 120 mg/dl,ST-T wave abnormality,69,No,0.1602016277640694,Upsloping,1,Normal,Yes
+61,Male,Non-anginal Pain,190,317,> 120 mg/dl,Left ventricular hypertrophy,199,No,1.3750328499879878,Downsloping,2,Fixed defect,Yes
+76,Male,Non-anginal Pain,93,120,> 120 mg/dl,Normal,97,Yes,4.838921057956961,Flat,2,Reversible defect,Yes
+78,Male,Typical Angina,183,286,> 120 mg/dl,Normal,167,No,1.2472864401910526,Upsloping,0,Reversible defect,Yes
+40,Male,Non-anginal Pain,159,245,> 120 mg/dl,ST-T wave abnormality,178,No,0.4963930956795867,Downsloping,0,Reversible defect,Yes
+50,Female,Atypical Angina,199,200,> 120 mg/dl,Left ventricular hypertrophy,93,No,2.9416097150360443,Downsloping,2,Normal,Yes
+55,Female,Atypical Angina,108,370,<= 120 mg/dl,Left ventricular hypertrophy,69,No,0.06180925535401467,Upsloping,2,Reversible defect,Yes
+54,Female,Typical Angina,121,288,> 120 mg/dl,ST-T wave abnormality,181,Yes,0.5255501574432657,Downsloping,1,Fixed defect,Yes
+51,Male,Atypical Angina,98,192,> 120 mg/dl,ST-T wave abnormality,174,No,5.007280391290446,Flat,1,Reversible defect,Yes
+56,Male,Asymptomatic,101,260,<= 120 mg/dl,Left ventricular hypertrophy,60,No,4.78313473812956,Downsloping,0,Normal,Yes
+78,Male,Typical Angina,100,189,> 120 mg/dl,ST-T wave abnormality,71,Yes,5.673860686510356,Flat,1,Reversible defect,Yes
+42,Female,Atypical Angina,135,381,<= 120 mg/dl,Left ventricular hypertrophy,162,Yes,5.297995702646647,Flat,0,Normal,Yes
+62,Female,Typical Angina,105,364,<= 120 mg/dl,Left ventricular hypertrophy,63,No,4.235688492086872,Upsloping,0,Normal,Yes
+63,Male,Non-anginal Pain,90,122,> 120 mg/dl,Normal,200,No,0.3244637152641096,Downsloping,3,Fixed defect,Yes
+70,Female,Atypical Angina,152,182,<= 120 mg/dl,Normal,157,Yes,4.853661431517277,Flat,0,Fixed defect,Yes
+64,Male,Asymptomatic,198,168,> 120 mg/dl,Left ventricular hypertrophy,165,Yes,5.242167027211475,Flat,1,Reversible defect,Yes
+30,Male,Atypical Angina,110,195,> 120 mg/dl,Left ventricular hypertrophy,144,Yes,4.9543093037861174,Downsloping,2,Normal,Yes
+50,Female,Typical Angina,119,294,<= 120 mg/dl,Left ventricular hypertrophy,180,No,3.1525700189097616,Flat,2,Normal,Yes
+77,Male,Typical Angina,102,228,<= 120 mg/dl,Left ventricular hypertrophy,191,No,1.4439913996267864,Downsloping,1,Fixed defect,Yes
+35,Female,Atypical Angina,123,302,> 120 mg/dl,Left ventricular hypertrophy,141,Yes,5.2410458492701055,Upsloping,2,Fixed defect,Yes
+57,Male,Asymptomatic,93,311,<= 120 mg/dl,Left ventricular hypertrophy,78,No,4.508409420388858,Flat,0,Reversible defect,Yes
+46,Female,Asymptomatic,117,184,<= 120 mg/dl,ST-T wave abnormality,189,Yes,6.08071928121088,Flat,2,Normal,Yes
+34,Female,Asymptomatic,191,390,> 120 mg/dl,Left ventricular hypertrophy,71,No,0.9652941060867841,Downsloping,1,Fixed defect,Yes
+60,Female,Typical Angina,184,219,> 120 mg/dl,ST-T wave abnormality,140,Yes,1.3991204149227414,Downsloping,2,Reversible defect,No
+34,Male,Atypical Angina,148,151,<= 120 mg/dl,ST-T wave abnormality,133,Yes,1.3131485292653167,Downsloping,0,Normal,Yes
+67,Male,Non-anginal Pain,116,247,> 120 mg/dl,Left ventricular hypertrophy,157,No,4.913746559252288,Downsloping,0,Normal,Yes
+32,Female,Typical Angina,158,162,> 120 mg/dl,Left ventricular hypertrophy,65,No,1.1588252379907327,Flat,1,Fixed defect,Yes
+52,Female,Asymptomatic,114,197,> 120 mg/dl,ST-T wave abnormality,195,No,0.4132909449044978,Upsloping,1,Reversible defect,Yes
+66,Male,Atypical Angina,92,389,> 120 mg/dl,ST-T wave abnormality,184,No,6.191077000830898,Upsloping,1,Fixed defect,Yes
+66,Male,Asymptomatic,186,281,> 120 mg/dl,Left ventricular hypertrophy,110,No,0.1538667109599247,Upsloping,3,Reversible defect,Yes
+39,Male,Non-anginal Pain,157,308,> 120 mg/dl,Left ventricular hypertrophy,70,No,5.178513172984967,Upsloping,3,Normal,Yes
+39,Female,Asymptomatic,114,366,> 120 mg/dl,ST-T wave abnormality,186,Yes,2.2652744176140476,Downsloping,0,Reversible defect,Yes
+48,Male,Asymptomatic,109,335,<= 120 mg/dl,ST-T wave abnormality,199,No,5.218015850498455,Flat,3,Reversible defect,Yes
+46,Male,Non-anginal Pain,123,287,> 120 mg/dl,ST-T wave abnormality,132,Yes,3.438647045509099,Flat,3,Reversible defect,Yes
+50,Female,Atypical Angina,115,312,<= 120 mg/dl,Normal,61,Yes,5.590113622815433,Flat,2,Reversible defect,Yes
+43,Male,Typical Angina,94,132,<= 120 mg/dl,ST-T wave abnormality,67,No,5.742396515770685,Downsloping,3,Reversible defect,Yes
+38,Male,Atypical Angina,188,359,<= 120 mg/dl,Normal,198,Yes,0.05640872394081118,Flat,2,Fixed defect,Yes
+75,Male,Non-anginal Pain,150,266,> 120 mg/dl,Left ventricular hypertrophy,183,Yes,0.4675554911552873,Downsloping,1,Reversible defect,Yes
+30,Female,Asymptomatic,181,323,> 120 mg/dl,Left ventricular hypertrophy,112,No,1.552224123339304,Flat,2,Reversible defect,Yes
+74,Female,Atypical Angina,182,199,<= 120 mg/dl,ST-T wave abnormality,69,No,4.149755581453711,Upsloping,2,Normal,Yes
+42,Female,Typical Angina,98,162,> 120 mg/dl,Left ventricular hypertrophy,171,No,5.507287618371337,Downsloping,1,Reversible defect,Yes
+33,Female,Non-anginal Pain,191,208,<= 120 mg/dl,Left ventricular hypertrophy,67,Yes,2.8516400980225693,Flat,1,Normal,Yes
+30,Female,Atypical Angina,139,267,> 120 mg/dl,Left ventricular hypertrophy,95,No,3.763233320900446,Upsloping,0,Fixed defect,Yes
+78,Female,Typical Angina,95,214,> 120 mg/dl,Left ventricular hypertrophy,165,No,1.1686990873324792,Upsloping,0,Fixed defect,Yes
+69,Female,Non-anginal Pain,172,270,<= 120 mg/dl,Normal,73,No,4.990794370066449,Upsloping,0,Reversible defect,Yes
+61,Male,Typical Angina,149,121,<= 120 mg/dl,Normal,145,No,5.997434290391513,Downsloping,0,Fixed defect,Yes
+63,Male,Non-anginal Pain,133,141,<= 120 mg/dl,ST-T wave abnormality,109,Yes,1.6653133840705043,Downsloping,2,Reversible defect,Yes
+57,Female,Asymptomatic,100,126,> 120 mg/dl,ST-T wave abnormality,79,No,3.0679208999233873,Flat,2,Fixed defect,Yes
+60,Male,Atypical Angina,155,325,<= 120 mg/dl,ST-T wave abnormality,146,Yes,0.5339198851395176,Upsloping,0,Reversible defect,Yes
+37,Male,Typical Angina,136,233,> 120 mg/dl,Left ventricular hypertrophy,194,No,3.4666472700704043,Flat,3,Reversible defect,Yes
+68,Female,Non-anginal Pain,197,391,> 120 mg/dl,Left ventricular hypertrophy,196,Yes,3.1172573394494196,Flat,0,Normal,Yes
+55,Male,Typical Angina,197,202,> 120 mg/dl,Normal,188,Yes,0.8955062017614811,Upsloping,3,Normal,Yes
+63,Male,Typical Angina,162,298,<= 120 mg/dl,Normal,97,Yes,2.7408105213320653,Flat,1,Normal,Yes
+32,Male,Atypical Angina,174,329,<= 120 mg/dl,ST-T wave abnormality,103,No,2.071448842936692,Downsloping,2,Normal,Yes
+79,Male,Asymptomatic,177,243,<= 120 mg/dl,Normal,145,Yes,3.235351426892174,Flat,2,Reversible defect,Yes
+41,Male,Typical Angina,187,232,> 120 mg/dl,Normal,103,No,3.631056879658555,Upsloping,3,Fixed defect,Yes
+30,Female,Non-anginal Pain,175,131,> 120 mg/dl,Normal,133,No,0.05267258736469895,Downsloping,0,Reversible defect,No
+73,Female,Non-anginal Pain,92,245,<= 120 mg/dl,Normal,178,No,4.718237094287243,Downsloping,2,Normal,Yes
+34,Female,Asymptomatic,165,172,> 120 mg/dl,Normal,181,No,4.420688609542793,Flat,3,Normal,Yes
+59,Male,Non-anginal Pain,181,259,> 120 mg/dl,ST-T wave abnormality,193,No,2.2709755944804377,Flat,1,Fixed defect,Yes
+59,Female,Asymptomatic,119,216,<= 120 mg/dl,ST-T wave abnormality,110,Yes,0.3282028005266732,Downsloping,1,Normal,Yes
+46,Male,Non-anginal Pain,179,124,<= 120 mg/dl,Normal,97,No,4.680581746667312,Flat,2,Reversible defect,Yes
+77,Male,Atypical Angina,110,176,<= 120 mg/dl,ST-T wave abnormality,110,Yes,5.922085994964421,Upsloping,0,Reversible defect,Yes
+76,Male,Typical Angina,117,188,> 120 mg/dl,Left ventricular hypertrophy,69,Yes,1.488939895336488,Flat,3,Reversible defect,Yes
+52,Male,Atypical Angina,179,237,> 120 mg/dl,Normal,179,Yes,2.005852605169635,Flat,2,Reversible defect,Yes
+44,Female,Typical Angina,151,178,> 120 mg/dl,Left ventricular hypertrophy,129,Yes,1.1396399147872527,Downsloping,1,Reversible defect,Yes
+66,Female,Typical Angina,122,152,> 120 mg/dl,ST-T wave abnormality,144,Yes,3.5770039647380063,Flat,0,Fixed defect,Yes
+50,Male,Typical Angina,174,169,> 120 mg/dl,ST-T wave abnormality,116,Yes,0.9600166468142207,Flat,3,Reversible defect,Yes
+43,Female,Atypical Angina,124,138,<= 120 mg/dl,Left ventricular hypertrophy,185,Yes,2.2084024494605528,Flat,2,Normal,No
+31,Male,Typical Angina,141,333,> 120 mg/dl,ST-T wave abnormality,98,No,4.32148068639243,Upsloping,3,Normal,No
+40,Female,Atypical Angina,123,316,> 120 mg/dl,Normal,92,Yes,3.4727190946579602,Flat,0,Normal,Yes
+68,Female,Asymptomatic,130,166,> 120 mg/dl,Left ventricular hypertrophy,77,No,2.3960678988331985,Upsloping,0,Normal,Yes
+67,Male,Non-anginal Pain,140,286,<= 120 mg/dl,Normal,116,Yes,2.60554753120676,Upsloping,1,Fixed defect,Yes
+63,Female,Non-anginal Pain,136,260,<= 120 mg/dl,Left ventricular hypertrophy,155,Yes,3.485087472264023,Upsloping,0,Normal,Yes
+67,Male,Typical Angina,171,203,<= 120 mg/dl,ST-T wave abnormality,107,Yes,0.03636131290040008,Upsloping,2,Fixed defect,Yes
+79,Female,Atypical Angina,147,301,> 120 mg/dl,Left ventricular hypertrophy,101,Yes,0.4867611844123811,Downsloping,3,Normal,Yes
+63,Male,Non-anginal Pain,164,198,<= 120 mg/dl,Left ventricular hypertrophy,86,No,5.463800020130672,Upsloping,0,Fixed defect,Yes
+47,Male,Atypical Angina,146,334,<= 120 mg/dl,Normal,133,No,0.48284973236600276,Flat,0,Fixed defect,Yes
+59,Female,Atypical Angina,112,133,<= 120 mg/dl,ST-T wave abnormality,169,No,4.382182296505132,Upsloping,2,Fixed defect,Yes
+44,Female,Typical Angina,137,334,> 120 mg/dl,Normal,91,Yes,5.704236617476126,Flat,3,Normal,Yes
+56,Male,Non-anginal Pain,111,247,<= 120 mg/dl,ST-T wave abnormality,85,Yes,1.678238346670733,Upsloping,3,Fixed defect,Yes
+63,Female,Typical Angina,106,367,> 120 mg/dl,Normal,84,Yes,2.2970469097689885,Downsloping,1,Reversible defect,Yes
+67,Female,Typical Angina,158,148,> 120 mg/dl,Left ventricular hypertrophy,134,No,3.5273127162372413,Upsloping,1,Reversible defect,Yes
+62,Male,Non-anginal Pain,197,399,<= 120 mg/dl,Normal,82,Yes,5.466595611759225,Upsloping,3,Normal,Yes
+53,Male,Non-anginal Pain,100,321,> 120 mg/dl,ST-T wave abnormality,116,No,5.8398146410146055,Downsloping,2,Reversible defect,Yes
+44,Female,Asymptomatic,183,176,<= 120 mg/dl,ST-T wave abnormality,185,No,4.585292138289862,Upsloping,2,Reversible defect,Yes
+59,Male,Asymptomatic,104,337,> 120 mg/dl,Left ventricular hypertrophy,146,Yes,0.537042517299103,Flat,1,Reversible defect,Yes
+71,Male,Atypical Angina,180,181,<= 120 mg/dl,ST-T wave abnormality,90,Yes,4.148755764316075,Upsloping,0,Normal,Yes
+46,Male,Non-anginal Pain,124,276,<= 120 mg/dl,Normal,123,No,2.543883075610505,Upsloping,2,Normal,Yes
+34,Female,Asymptomatic,122,321,<= 120 mg/dl,Left ventricular hypertrophy,92,No,2.918346196844582,Upsloping,0,Reversible defect,Yes
+58,Female,Atypical Angina,173,136,> 120 mg/dl,ST-T wave abnormality,61,No,0.30472002014009764,Downsloping,2,Normal,Yes
+33,Male,Atypical Angina,105,125,<= 120 mg/dl,ST-T wave abnormality,77,Yes,1.1845852639474208,Upsloping,3,Fixed defect,Yes
+39,Female,Atypical Angina,123,177,> 120 mg/dl,Normal,143,Yes,4.901184366708616,Upsloping,1,Reversible defect,Yes
+46,Male,Asymptomatic,155,288,<= 120 mg/dl,Normal,94,Yes,2.8145447648967306,Flat,0,Normal,Yes
+39,Female,Non-anginal Pain,188,201,> 120 mg/dl,Left ventricular hypertrophy,173,Yes,1.8703058981131229,Upsloping,0,Normal,Yes
+46,Male,Typical Angina,129,338,> 120 mg/dl,ST-T wave abnormality,169,Yes,2.380918258582741,Upsloping,3,Reversible defect,Yes
+49,Male,Atypical Angina,117,296,<= 120 mg/dl,Normal,147,Yes,5.297276982619217,Upsloping,2,Normal,Yes
+53,Female,Asymptomatic,136,323,<= 120 mg/dl,Left ventricular hypertrophy,131,No,4.643793907910733,Upsloping,0,Reversible defect,Yes
+34,Male,Asymptomatic,128,190,<= 120 mg/dl,ST-T wave abnormality,184,No,1.6883554625227133,Flat,2,Normal,No
+63,Female,Typical Angina,159,385,<= 120 mg/dl,ST-T wave abnormality,89,No,0.7285114093167145,Flat,3,Fixed defect,Yes
+35,Female,Typical Angina,162,217,<= 120 mg/dl,Left ventricular hypertrophy,112,Yes,1.5623889741932446,Downsloping,1,Reversible defect,Yes
+31,Male,Asymptomatic,109,327,> 120 mg/dl,Left ventricular hypertrophy,197,No,5.708689996539349,Upsloping,0,Fixed defect,Yes
+42,Male,Non-anginal Pain,90,121,<= 120 mg/dl,Normal,146,Yes,3.6058507946684832,Downsloping,2,Reversible defect,Yes
+72,Female,Typical Angina,161,243,<= 120 mg/dl,ST-T wave abnormality,198,Yes,3.307577294217654,Downsloping,0,Normal,Yes
+72,Male,Asymptomatic,176,399,> 120 mg/dl,ST-T wave abnormality,72,No,3.6976403180932618,Upsloping,2,Fixed defect,Yes
+77,Male,Typical Angina,152,193,<= 120 mg/dl,ST-T wave abnormality,99,Yes,2.269375247628395,Flat,2,Normal,Yes
+40,Male,Non-anginal Pain,156,285,<= 120 mg/dl,Left ventricular hypertrophy,148,No,5.004063525980979,Flat,2,Reversible defect,Yes
+76,Male,Atypical Angina,93,141,> 120 mg/dl,Normal,127,No,3.244374745661549,Upsloping,3,Reversible defect,Yes
+52,Male,Typical Angina,147,273,<= 120 mg/dl,ST-T wave abnormality,101,Yes,0.7238369971665324,Upsloping,1,Reversible defect,Yes
+45,Female,Non-anginal Pain,114,338,<= 120 mg/dl,Left ventricular hypertrophy,153,No,0.8002037739401904,Flat,0,Reversible defect,Yes
+60,Female,Asymptomatic,136,276,<= 120 mg/dl,ST-T wave abnormality,78,No,3.3285267083162338,Upsloping,1,Reversible defect,Yes
+40,Male,Typical Angina,127,349,> 120 mg/dl,Normal,82,No,5.806735352039203,Upsloping,2,Fixed defect,Yes
+45,Male,Typical Angina,104,139,<= 120 mg/dl,ST-T wave abnormality,113,No,1.9117831543924322,Upsloping,2,Reversible defect,Yes
+37,Male,Asymptomatic,152,160,> 120 mg/dl,Normal,124,Yes,5.391155246927154,Flat,1,Normal,Yes
+33,Female,Atypical Angina,110,267,<= 120 mg/dl,Normal,199,No,4.7373926367890515,Downsloping,1,Fixed defect,Yes
+69,Male,Asymptomatic,188,227,> 120 mg/dl,ST-T wave abnormality,83,No,1.5364371460228226,Downsloping,0,Normal,Yes
+33,Female,Typical Angina,146,203,<= 120 mg/dl,ST-T wave abnormality,93,No,0.22531263956070322,Upsloping,2,Reversible defect,Yes
+54,Female,Asymptomatic,142,253,> 120 mg/dl,Normal,112,Yes,0.631453043882773,Flat,1,Normal,Yes
+32,Female,Non-anginal Pain,135,326,> 120 mg/dl,Left ventricular hypertrophy,195,No,4.51666238985413,Upsloping,3,Fixed defect,Yes
+61,Male,Asymptomatic,103,385,> 120 mg/dl,Normal,77,Yes,1.2379523758520095,Flat,2,Fixed defect,Yes
+32,Female,Typical Angina,189,192,> 120 mg/dl,ST-T wave abnormality,116,No,2.3018797071334416,Upsloping,2,Fixed defect,Yes
+56,Male,Asymptomatic,165,167,> 120 mg/dl,ST-T wave abnormality,171,No,3.110534829239834,Flat,0,Normal,Yes
+58,Female,Atypical Angina,106,352,> 120 mg/dl,Left ventricular hypertrophy,64,No,4.49790264439101,Flat,3,Fixed defect,Yes
+61,Male,Asymptomatic,128,219,<= 120 mg/dl,Normal,72,Yes,0.7020335842065774,Downsloping,0,Normal,Yes
+79,Female,Atypical Angina,98,178,<= 120 mg/dl,Normal,142,Yes,2.5194717127202613,Upsloping,3,Reversible defect,Yes
+48,Male,Non-anginal Pain,188,377,> 120 mg/dl,Normal,88,Yes,3.0074520366847115,Downsloping,0,Reversible defect,Yes
+50,Female,Atypical Angina,166,184,> 120 mg/dl,ST-T wave abnormality,62,Yes,3.353127796623546,Downsloping,3,Normal,Yes
+34,Male,Asymptomatic,168,202,> 120 mg/dl,Normal,149,Yes,5.073835976650344,Flat,3,Fixed defect,Yes
+47,Male,Typical Angina,171,273,> 120 mg/dl,Left ventricular hypertrophy,163,Yes,1.0644048092679448,Upsloping,3,Normal,Yes
+57,Male,Atypical Angina,186,385,<= 120 mg/dl,ST-T wave abnormality,182,No,5.008555001325059,Flat,1,Normal,Yes
+71,Male,Non-anginal Pain,95,198,> 120 mg/dl,ST-T wave abnormality,135,Yes,4.295846251719244,Flat,2,Normal,Yes
+51,Female,Atypical Angina,180,269,<= 120 mg/dl,Normal,189,No,3.446399048033548,Flat,3,Reversible defect,Yes
+50,Female,Atypical Angina,112,167,<= 120 mg/dl,Left ventricular hypertrophy,167,Yes,4.337072796495946,Upsloping,1,Normal,Yes
+35,Male,Atypical Angina,148,367,> 120 mg/dl,ST-T wave abnormality,141,Yes,2.55450998150027,Upsloping,1,Reversible defect,Yes
+30,Female,Non-anginal Pain,180,397,> 120 mg/dl,ST-T wave abnormality,136,Yes,0.8580650330023724,Flat,0,Normal,Yes
+34,Male,Asymptomatic,187,217,<= 120 mg/dl,Normal,61,No,4.127744489645277,Upsloping,2,Reversible defect,Yes
+70,Male,Atypical Angina,135,144,<= 120 mg/dl,Normal,186,Yes,3.252968301450858,Flat,2,Normal,Yes
+41,Female,Atypical Angina,127,187,> 120 mg/dl,Left ventricular hypertrophy,194,Yes,3.964123763365208,Upsloping,0,Normal,Yes
+55,Male,Typical Angina,103,126,> 120 mg/dl,Normal,85,No,2.0955924423766383,Upsloping,2,Fixed defect,Yes
+75,Male,Non-anginal Pain,189,256,> 120 mg/dl,Left ventricular hypertrophy,147,No,5.622572779506982,Downsloping,0,Fixed defect,Yes
+63,Female,Atypical Angina,161,283,<= 120 mg/dl,ST-T wave abnormality,75,No,3.641693185168577,Flat,1,Normal,Yes
+78,Male,Non-anginal Pain,151,202,<= 120 mg/dl,Left ventricular hypertrophy,132,No,0.5294954026034178,Downsloping,1,Normal,Yes
+43,Male,Atypical Angina,124,257,> 120 mg/dl,Left ventricular hypertrophy,91,Yes,2.788784742367458,Downsloping,3,Normal,Yes
+55,Male,Asymptomatic,108,192,<= 120 mg/dl,Left ventricular hypertrophy,74,No,4.689407539410533,Flat,0,Normal,Yes
+74,Male,Asymptomatic,119,356,<= 120 mg/dl,ST-T wave abnormality,200,Yes,4.923634282740089,Flat,1,Fixed defect,Yes
+56,Female,Atypical Angina,167,165,> 120 mg/dl,Normal,64,Yes,3.0665017271353046,Upsloping,1,Reversible defect,Yes
+38,Female,Asymptomatic,173,225,> 120 mg/dl,ST-T wave abnormality,133,No,5.5474349391540665,Flat,0,Normal,Yes
+55,Female,Atypical Angina,114,381,<= 120 mg/dl,Normal,111,Yes,1.659544310604645,Downsloping,1,Fixed defect,Yes
+76,Male,Asymptomatic,129,295,<= 120 mg/dl,Left ventricular hypertrophy,136,No,2.545711922877253,Downsloping,2,Normal,Yes
+51,Male,Typical Angina,177,285,> 120 mg/dl,Left ventricular hypertrophy,169,Yes,5.571300845527615,Flat,1,Normal,Yes
+76,Female,Typical Angina,103,264,> 120 mg/dl,Left ventricular hypertrophy,165,No,5.556791642123789,Downsloping,0,Reversible defect,Yes
+59,Male,Typical Angina,115,173,> 120 mg/dl,Left ventricular hypertrophy,186,No,4.2514191667130214,Upsloping,2,Normal,Yes
+72,Male,Non-anginal Pain,191,297,> 120 mg/dl,Left ventricular hypertrophy,66,No,5.325679392157765,Downsloping,2,Normal,Yes
+77,Male,Non-anginal Pain,176,363,> 120 mg/dl,Normal,99,No,0.5503942551286426,Upsloping,1,Reversible defect,Yes
+46,Male,Typical Angina,111,246,<= 120 mg/dl,Normal,158,No,5.362968852488214,Downsloping,3,Reversible defect,Yes
+55,Female,Non-anginal Pain,137,390,<= 120 mg/dl,Left ventricular hypertrophy,144,No,1.987843420611406,Upsloping,2,Reversible defect,Yes
+65,Female,Asymptomatic,172,251,<= 120 mg/dl,ST-T wave abnormality,124,Yes,1.1056553770549413,Upsloping,0,Reversible defect,Yes
+30,Female,Atypical Angina,199,212,<= 120 mg/dl,ST-T wave abnormality,191,Yes,1.4840929853206872,Flat,3,Fixed defect,Yes
+37,Male,Atypical Angina,140,192,> 120 mg/dl,Left ventricular hypertrophy,70,Yes,2.5914047496861,Upsloping,3,Fixed defect,Yes
+78,Female,Atypical Angina,92,367,> 120 mg/dl,Normal,167,No,1.557390428547697,Flat,2,Fixed defect,Yes
+64,Female,Typical Angina,131,392,> 120 mg/dl,ST-T wave abnormality,85,Yes,1.987519033302294,Downsloping,1,Normal,Yes
+44,Male,Non-anginal Pain,108,162,<= 120 mg/dl,ST-T wave abnormality,144,No,0.836866613644181,Downsloping,3,Reversible defect,Yes
+76,Male,Asymptomatic,162,160,<= 120 mg/dl,ST-T wave abnormality,182,Yes,1.8362959464657909,Downsloping,1,Reversible defect,Yes
+51,Female,Asymptomatic,117,289,<= 120 mg/dl,Left ventricular hypertrophy,127,Yes,3.5481596501604074,Upsloping,2,Fixed defect,Yes
+43,Female,Typical Angina,173,331,> 120 mg/dl,ST-T wave abnormality,163,No,2.7394929901645964,Downsloping,0,Normal,Yes
+55,Female,Asymptomatic,134,287,<= 120 mg/dl,ST-T wave abnormality,139,Yes,2.1496563196626495,Downsloping,3,Normal,Yes
+57,Female,Asymptomatic,160,158,> 120 mg/dl,ST-T wave abnormality,112,Yes,4.628003198914107,Flat,0,Normal,Yes
+52,Male,Asymptomatic,167,364,> 120 mg/dl,ST-T wave abnormality,165,Yes,5.539761822638571,Flat,1,Fixed defect,Yes
+43,Female,Asymptomatic,152,270,> 120 mg/dl,Normal,103,No,4.692093181994862,Downsloping,1,Normal,Yes
+53,Female,Non-anginal Pain,162,230,> 120 mg/dl,Left ventricular hypertrophy,199,Yes,2.058404353129611,Downsloping,0,Normal,Yes
+31,Male,Asymptomatic,108,166,> 120 mg/dl,Left ventricular hypertrophy,149,No,4.615541440592833,Upsloping,2,Normal,Yes
+74,Female,Atypical Angina,136,182,> 120 mg/dl,Normal,160,Yes,0.9422771313391175,Upsloping,2,Reversible defect,Yes
+55,Male,Typical Angina,103,344,<= 120 mg/dl,Normal,156,Yes,0.8079715261660037,Downsloping,3,Fixed defect,Yes
+43,Male,Non-anginal Pain,127,188,> 120 mg/dl,Left ventricular hypertrophy,68,Yes,2.1428876296241857,Flat,3,Reversible defect,Yes
+36,Male,Asymptomatic,142,322,> 120 mg/dl,ST-T wave abnormality,71,Yes,5.007754688073153,Downsloping,2,Reversible defect,Yes
+32,Female,Non-anginal Pain,150,180,<= 120 mg/dl,ST-T wave abnormality,128,No,1.5273591329022715,Upsloping,2,Fixed defect,Yes
+76,Female,Asymptomatic,125,280,> 120 mg/dl,Left ventricular hypertrophy,87,Yes,0.39217113517181346,Flat,0,Reversible defect,Yes
+52,Male,Atypical Angina,129,135,<= 120 mg/dl,ST-T wave abnormality,115,No,0.8165991182794016,Flat,1,Normal,Yes
+75,Female,Typical Angina,170,213,<= 120 mg/dl,Normal,158,No,5.324218804883397,Upsloping,1,Normal,Yes
+72,Female,Asymptomatic,119,257,<= 120 mg/dl,ST-T wave abnormality,169,Yes,3.9294563654331833,Downsloping,3,Normal,Yes
+76,Male,Asymptomatic,98,157,> 120 mg/dl,ST-T wave abnormality,136,Yes,1.5698472128938554,Downsloping,2,Normal,Yes
+74,Male,Asymptomatic,153,246,> 120 mg/dl,ST-T wave abnormality,162,No,3.4428341170347245,Downsloping,0,Fixed defect,Yes
+47,Female,Asymptomatic,122,394,<= 120 mg/dl,Left ventricular hypertrophy,165,No,3.2709936590371727,Upsloping,3,Reversible defect,Yes
+67,Male,Typical Angina,141,283,> 120 mg/dl,Normal,168,Yes,4.0637030663321,Flat,0,Reversible defect,Yes
+64,Female,Typical Angina,178,196,> 120 mg/dl,ST-T wave abnormality,171,Yes,1.4457628374140212,Upsloping,2,Normal,Yes
+44,Female,Atypical Angina,103,293,<= 120 mg/dl,Left ventricular hypertrophy,117,Yes,5.3592985206052655,Downsloping,2,Normal,Yes
+54,Female,Typical Angina,164,210,<= 120 mg/dl,ST-T wave abnormality,137,Yes,1.9180850848960798,Upsloping,2,Reversible defect,Yes
+66,Female,Asymptomatic,142,357,> 120 mg/dl,Normal,134,Yes,4.303616254652669,Flat,1,Fixed defect,Yes
+57,Male,Atypical Angina,188,383,<= 120 mg/dl,ST-T wave abnormality,101,No,0.09997280750773233,Upsloping,2,Reversible defect,Yes
+39,Male,Atypical Angina,194,298,<= 120 mg/dl,Normal,127,Yes,2.310474205343713,Downsloping,3,Normal,Yes
+68,Male,Atypical Angina,148,328,<= 120 mg/dl,ST-T wave abnormality,92,Yes,2.1806008713446117,Flat,1,Normal,Yes
+46,Male,Asymptomatic,167,192,> 120 mg/dl,Normal,130,No,3.36960345721469,Upsloping,0,Fixed defect,Yes
+68,Female,Non-anginal Pain,183,226,> 120 mg/dl,ST-T wave abnormality,115,Yes,0.4509648230186183,Upsloping,3,Reversible defect,Yes
+51,Female,Asymptomatic,130,301,> 120 mg/dl,Normal,164,Yes,4.898814517101871,Flat,3,Fixed defect,Yes
+55,Male,Typical Angina,157,156,<= 120 mg/dl,ST-T wave abnormality,160,No,1.350240970958925,Flat,0,Fixed defect,Yes
+73,Female,Typical Angina,157,256,> 120 mg/dl,ST-T wave abnormality,110,Yes,4.197634452268463,Downsloping,1,Normal,Yes
+54,Female,Asymptomatic,181,175,<= 120 mg/dl,Left ventricular hypertrophy,133,No,4.979915164113378,Flat,3,Reversible defect,Yes
+46,Female,Asymptomatic,97,306,> 120 mg/dl,Left ventricular hypertrophy,180,Yes,3.4836371286973815,Downsloping,3,Normal,Yes
+42,Male,Atypical Angina,91,377,> 120 mg/dl,Normal,64,Yes,4.59347588167631,Upsloping,3,Reversible defect,Yes
+49,Male,Asymptomatic,194,177,<= 120 mg/dl,ST-T wave abnormality,142,Yes,4.103533935733035,Downsloping,1,Normal,Yes
+54,Male,Atypical Angina,199,242,> 120 mg/dl,Normal,110,No,2.2042847423424474,Upsloping,1,Normal,Yes
+33,Female,Typical Angina,175,307,<= 120 mg/dl,Left ventricular hypertrophy,69,No,5.014922942008105,Flat,1,Reversible defect,Yes
+39,Male,Atypical Angina,130,349,> 120 mg/dl,Normal,199,No,1.8271484932902735,Upsloping,3,Reversible defect,Yes
+32,Male,Asymptomatic,144,287,> 120 mg/dl,Normal,63,No,3.5415200900594064,Flat,2,Normal,Yes
+70,Male,Typical Angina,105,233,<= 120 mg/dl,Left ventricular hypertrophy,154,Yes,4.621465982677545,Upsloping,0,Reversible defect,Yes
+74,Male,Non-anginal Pain,182,371,<= 120 mg/dl,ST-T wave abnormality,139,No,2.349526640837547,Upsloping,2,Normal,Yes
+47,Male,Atypical Angina,151,226,<= 120 mg/dl,Normal,95,No,1.8771591672280354,Upsloping,1,Reversible defect,No
+76,Male,Typical Angina,137,156,> 120 mg/dl,Left ventricular hypertrophy,84,No,2.847945263071501,Upsloping,3,Normal,Yes
+65,Female,Atypical Angina,119,211,> 120 mg/dl,ST-T wave abnormality,157,Yes,5.071373664964753,Downsloping,3,Normal,Yes
+76,Female,Typical Angina,101,137,> 120 mg/dl,Left ventricular hypertrophy,160,Yes,5.765514931503121,Upsloping,2,Normal,Yes
+51,Male,Typical Angina,124,182,<= 120 mg/dl,Normal,68,No,3.379517159731319,Downsloping,2,Fixed defect,Yes
+63,Male,Atypical Angina,100,269,<= 120 mg/dl,ST-T wave abnormality,120,No,4.101090473006642,Flat,0,Reversible defect,Yes
+76,Female,Non-anginal Pain,153,258,<= 120 mg/dl,ST-T wave abnormality,112,Yes,5.600296457881268,Flat,3,Normal,Yes
+37,Female,Typical Angina,199,305,> 120 mg/dl,Left ventricular hypertrophy,122,No,0.6109904787602428,Downsloping,2,Fixed defect,Yes
+69,Male,Typical Angina,139,304,> 120 mg/dl,Left ventricular hypertrophy,180,No,1.4388871827702232,Flat,0,Normal,Yes
+78,Male,Typical Angina,174,324,<= 120 mg/dl,Left ventricular hypertrophy,164,No,4.395180038759811,Flat,1,Fixed defect,Yes
+73,Male,Non-anginal Pain,110,379,> 120 mg/dl,ST-T wave abnormality,63,No,5.107215663856258,Upsloping,2,Normal,Yes
+48,Male,Non-anginal Pain,158,333,<= 120 mg/dl,ST-T wave abnormality,152,Yes,5.313579975649583,Upsloping,1,Normal,Yes
+71,Female,Asymptomatic,137,375,> 120 mg/dl,Normal,87,Yes,2.573664496500582,Upsloping,0,Fixed defect,Yes
+70,Male,Atypical Angina,109,254,> 120 mg/dl,ST-T wave abnormality,139,Yes,0.5539073942095744,Downsloping,1,Fixed defect,Yes
+66,Male,Non-anginal Pain,190,180,<= 120 mg/dl,Normal,135,No,2.7142451592576435,Downsloping,3,Reversible defect,Yes
+35,Male,Atypical Angina,156,207,> 120 mg/dl,Left ventricular hypertrophy,175,No,1.4305544592837334,Flat,3,Reversible defect,Yes
+55,Male,Asymptomatic,133,326,> 120 mg/dl,Left ventricular hypertrophy,128,Yes,1.8054180209790698,Upsloping,1,Fixed defect,Yes
+63,Female,Atypical Angina,122,248,<= 120 mg/dl,ST-T wave abnormality,157,Yes,4.7880588523925365,Downsloping,3,Reversible defect,Yes
+74,Female,Non-anginal Pain,162,122,<= 120 mg/dl,Left ventricular hypertrophy,60,Yes,0.4682679333604986,Downsloping,0,Fixed defect,Yes
+35,Female,Atypical Angina,150,361,> 120 mg/dl,Left ventricular hypertrophy,155,No,5.131003548380353,Upsloping,3,Reversible defect,Yes
+66,Male,Non-anginal Pain,98,240,<= 120 mg/dl,ST-T wave abnormality,76,Yes,2.6515483321098485,Downsloping,1,Normal,Yes
